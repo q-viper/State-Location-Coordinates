@@ -1,2 +1,4 @@
 # State-Location-Coordinates
-This is made for research purpose only.
+## Contains
+* 240 + country's latitude and longitude.
+* 2.7k+ state's latitude and longitude.
