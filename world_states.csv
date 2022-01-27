@@ -1,0 +1,3068 @@
+,country,state,lat,lon
+0,Poland,Kujawsko-Pomorskie,53.3220016,18.3392939
+1,United States,Ohio,40.2253569,-82.6881395
+2,France,Île-de-France,48.4002989,7.325679
+3,United States,North Carolina,35.6729639,-79.0392919
+4,United States,Colorado,38.7251776,-105.607716
+5,United States,New York,40.7127281,-74.0060152
+6,Viet Nam,,46.3144754,11.0480288
+7,United States,Arizona,34.395342,-111.763275
+8,United States,Alabama,33.2588817,-86.8295337
+9,Australia,Queensland,-22.1646782,144.5844903
+10,Brazil,São Paulo,40.6542602,-7.9144613
+11,United States,Massachusetts,42.3788774,-72.032366
+12,New Zealand,Auckland,-36.852095,174.7631803
+13,United States,West Virginia,38.4758406,-80.8408415
+14,United States,California,36.7014631,-118.755997
+15,Canada,British Columbia,55.001251,-125.002441
+16,United States,Illinois,40.0796606,-89.4337288
+17,United States,Nevada,39.5158825,-116.8537227
+18,Bulgaria,Sofia-Capital,-34.5855384,-58.4820671
+19,Spain,Catalonia,41.8523094,1.5745043
+20,United States,Oregon,43.9792797,-120.737257
+21,United States,Washington,38.8950368,-77.0365427
+22,Sweden,Västra Götaland,,
+23,India,Delhi,28.6517178,77.2219388
+24,United States,New Jersey,40.0757384,-74.4041622
+25,United States,Texas,31.168570000000003,-99.68300099546674
+26,China,Guangdong,23.1357694,113.1982688
+27,Canada,Quebec,52.4760892,-71.8258668
+28,Australia,Western Australia,-25.2303005,121.0187246
+29,United Kingdom,England,52.5310214,-1.2649062
+30,India,Karnataka,14.5203896,75.7223521
+31,Germany,Bavaria,48.9467562,11.4038717
+32,Australia,Victoria,-36.5986096,144.6780052
+33,United States,Iowa,41.9216734,-93.3122705
+34,Canada,Ontario,50.000678,-86.000977
+35,United States,Georgia,32.3293809,-83.1137366
+36,United States,"Washington, D.C.",38.8950368,-77.0365427
+37,United States,Wisconsin,44.4308975,-89.6884637
+38,Germany,Hesse,50.6080651,9.0284647
+39,India,Tamil Nadu,10.9094334,78.3665347
+40,Colombia,Antioquia,7.0000085,-75.5000086
+41,Hong Kong,Central and Western,22.2818286,114.1582784
+42,India,Kerala,10.3528744,76.5120396
+43,Philippines,Davao,7.0645451,125.6084371
+44,United States,Florida,27.7567667,-81.4639835
+45,Croatia,City of Zagreb,45.791544200000004,15.971448808267374
+46,Peru,Lima,-12.0621065,-77.0365256
+47,United States,Virginia,37.1232245,-78.4927721
+48,Germany,Baden-Württemberg,,
+49,Finland,Uusimaa,60.2246684,25.12726308225769
+50,Norway,Vestland,60.9291011,6.107886941976156
+51,Japan,Tokyo,35.6828387,139.7594549
+52,Germany,North Rhine-Westphalia,51.4789205,7.5543751
+53,Brazil,Rio Grande do Sul,-29.8425284,-53.7680577
+54,Israel,Tel Aviv,32.0852997,34.7818064
+55,Sweden,Västmanland,,
+56,Australia,South Australia,-30.5343665,135.6301212
+57,United States,Pennsylvania,40.9699889,-77.7278831
+58,Estonia,Harjumaa,59.4090892,24.73689671734141
+59,Spain,Madrid,40.4167047,-3.7035825
+60,United States,Utah,39.4225192,-111.714358
+61,United States,Missouri,38.7604815,-92.5617875
+62,Finland,Paijat-Hame,61.2297202,25.810550681272005
+63,Sweden,Kronoberg,56.80067805,14.411160995108743
+64,Netherlands,Overijssel,52.4254143,6.4610611
+65,United Kingdom,Scotland,56.7861112,-4.1140518
+66,Chile,Valparaíso,25.6679516,-100.254382
+67,Canada,Alberta,55.001251,-115.002136
+68,Ireland,Leinster,53.11846495,-6.991818291829787
+69,United States,Michigan,43.6211955,-84.6824346
+70,Lithuania,Klaipėda County,,
+71,Sweden,Uppsala,59.8586126,17.6387436
+72,United States,Minnesota,45.9896587,-94.6113288
+73,Slovakia,Bratislavský Kraj,,
+74,Spain,Aragon,41.3787291,-0.7639373
+75,Belgium,Brussels Capital,50.83879505,4.375304132256188
+76,Poland,Lower Silesia,50.953797,15.9151828
+77,United States,Arkansas,35.2048883,-92.4479108
+78,China,Shanghai,31.2322758,121.4692071
+79,Sweden,Värmland,,
+80,India,Assam,26.4073841,93.2551303
+81,Portugal,Coimbra,40.2111931,-8.4294632
+82,Denmark,Central Jutland,56.23564835,9.234625027778005
+83,China,Liaoning,40.9324168,122.24074788191257
+84,United States,Maryland,39.5162234,-76.9382069
+85,Switzerland,Geneva,46.2017559,6.1466014
+86,Austria,Upper Austria,48.25,14.0
+87,Mexico,Mexico City,19.4326296,-99.1331785
+88,Romania,Cluj,46.769379,23.5899542
+89,India,Maharashtra,18.9068356,75.6741579
+90,Netherlands,South Holland,51.9966792,4.5597397
+91,Japan,Miyagi,34.9803071,139.838919
+92,United States,Kansas,38.27312,-98.5821872
+93,Italy,Veneto,45.6476663,11.8665254
+94,Germany,Berlin,52.5170365,13.3888599
+95,Pakistan,Sindh,25.5,69.0
+96,Canada,New Brunswick,46.500283,-66.750183
+97,Turkey,Ankara,39.9207886,32.8540482
+98,Bangladesh,Dhaka,23.7861979,90.4026151
+99,United States,Tavush,40.972706349999996,45.1381515619545
+100,United States,Idaho,43.6447642,-114.015407
+101,North Macedonia,Grad Skopje,42.00396245,21.420395499999994
+102,Canada,Northwest Territories,65.0000004,-118.0
+103,United States,South Carolina,33.6874388,-80.4363743
+104,Canada,Yukon,63.000147,-136.002502
+105,United States,Tennessee,35.7730076,-86.2820081
+106,Poland,Lesser Poland,49.790952,20.3793521
+107,Singapore,SG.01,1.357107,103.8194992
+108,United States,Carolina,35.90503535,-79.04775326525107
+109,France,Nouvelle-Aquitaine,45.4039367,0.3756199
+110,Brazil,Amazonas,-4.479925,-63.5185396
+111,Italy,Lombardy,45.5703694,9.7732524
+112,United States,Maine,45.709097,-68.8590201
+113,Russian Federation,Moscow,55.7504461,37.6174943
+114,Sweden,Stockholm,59.3251172,18.0710935
+115,Hungary,Budapest,47.4979937,19.0403594
+116,Netherlands,North Holland,52.7212825,4.820665
+117,Switzerland,Zurich,47.3744489,8.5410422
+118,United States,Oklahoma,34.9550817,-97.2684063
+119,Mexico,Sonora,29.3333331,-110.6666671
+120,Ukraine,Kyiv City,50.387643,30.4713298
+121,Denmark,Zealand,55.545597900000004,11.697374095992934
+122,Norway,Oslo,59.9133301,10.7389701
+123,Italy,Latium,41.9808038,12.7662312
+124,Romania,Timiş,-38.80989,175.12481
+125,Saudi Arabia,Medina Region,25.1354363,39.162594
+126,Switzerland,Vaud,46.6356963,6.5320717
+127,Argentina,Buenos Aires F.D.,50.1049756,8.692251
+128,China,Beijing,39.906217,116.3912757
+129,Turkey,Istanbul,41.0096334,28.9651646
+130,Greece,Attica,37.9946543,23.79940251269328
+131,United States,Indiana,40.3270127,-86.1746933
+132,Serbia,Vojvodina,45.4094426,19.976249203097026
+133,Canada,Saskatchewan,55.5321257,-106.1412243
+134,Canada,Newfoundland and Labrador,53.8217327,-61.2295532
+135,United States,New Hampshire,43.4849133,-71.6553992
+136,Australia,New South Wales,-31.8759835,147.2869493
+137,Denmark,South Denmark,41.7172773,-80.6853576
+138,Thailand,Bangkok,13.7525438,100.4934734
+139,"Taiwan, Province of China",Taiwan,23.9739374,120.9820179
+140,Pakistan,Punjab,30.9293211,75.5004841
+141,United States,Delaware,38.6920451,-75.4013315
+142,United States,Vermont,44.5990718,-72.5002608
+143,Bulgaria,Plovdiv,42.1418541,24.7499297
+144,Switzerland,Basel-City,47.5579097,7.5927728
+145,India,Madhya Pradesh,23.8143419,77.5340719
+146,Poland,Greater Poland,51.5207567,-0.14582027327096397
+147,Switzerland,Valais,46.2303063,7.6605757
+148,Netherlands,Limburg,51.2015196,5.9046302
+149,South Africa,Western Cape,-33.546977,20.72753
+150,Sweden,Örebro,46.0481037,13.6558926
+151,Ireland,Munster,52.307621600000004,-8.570897276292667
+152,Poland,Subcarpathia,,
+153,United States,Kentucky,37.5726028,-85.1551411
+154,United States,Connecticut,41.6500201,-72.7342163
+155,India,Goa,15.3004543,74.0855134
+156,Jordan,Amman,31.9515694,35.9239625
+157,India,Haryana,29.0,76.0
+158,Argentina,Neuquen,-38.3695057,-69.832275
+159,Belgium,Flanders,51.096246199999996,4.178629103169916
+160,United States,South Dakota,44.6471761,-100.348761
+161,Austria,Salzburg,47.7981346,13.0464806
+162,Brazil,Minas Gerais,-18.5264844,-44.1588654
+163,Spain,Andalusia,37.3399964,-4.5811614
+164,Poland,Mazovia,52.5461934,21.2073404
+165,United States,Montana,47.3752671,-109.638757
+166,Belarus,Minsk City,-3.9808378,-79.1967936
+167,Norway,Trøndelag,,
+168,Austria,Vienna,48.2083537,16.3725042
+169,Spain,Basque Country,42.728653050000005,-1.97383746697463
+170,Germany,Saxony,50.9295798,13.4585052
+171,United Kingdom,Wales,52.2928116,-3.73893
+172,Russian Federation,St.-Petersburg,59.938732,30.316229
+173,United Arab Emirates,Dubai,25.2653471,55.2924914
+174,United States,Rhode Island,41.7962409,-71.5992372
+175,India,Telangana,17.8495919,79.1151663
+176,Slovenia,Izola-Isola,45.5398936,13.65939
+177,South Africa,Gauteng,-25.9363439,28.0813105
+178,France,Brittany,48.2640845,-2.9202408
+179,Latvia,Ogre,56.8192045,24.6074393
+180,Ukraine,Kharkiv,49.9923181,36.2310146
+181,New Zealand,Wellington,-41.2887953,174.7772114
+182,Saudi Arabia,East Azerbaijan,38.5579309,47.2575712
+183,Serbia,Central Serbia,43.6642533,20.990692418067034
+184,Czechia,Olomoucký,,
+185,"Iran, Islamic Republic of",Tehran,35.6892523,51.3896004
+186,Sweden,Skåne,1.372526,103.8936664
+187,Philippines,National Capital Region,14.5736108,121.0329706
+188,Sweden,Östergötland,,
+189,Estonia,Tartu,58.3801207,26.72245
+190,Spain,Galicia,42.61946,-7.863112
+191,United States,New Mexico,34.5708167,-105.993007
+192,Brazil,Piauí,-21.5074738,-43.320587
+193,Portugal,District of Setúbal,,
+194,Italy,Sardinia,40.0912813,9.0305773
+195,Malaysia,Kuala Lumpur,3.1516964,101.6942371
+196,United States,Peel,54.2229326,-4.6957105
+197,United States,Nebraska,41.7370229,-99.5873816
+198,United States,Mississippi,32.9715285,-89.7348497
+199,France,Pays de la Loire,47.6594864,-0.8186143
+200,New Zealand,Northland,-35.3755091,173.9470106440683
+201,Germany,Bremen,53.0758196,8.8071646
+202,Czechia,Hlavní město Praha,,
+203,France,Provence-Alpes-Côte d'Azur,,
+204,Denmark,Capital Region,64.17271375,-21.566757543352054
+205,France,Hauts-de-France,50.1024606,2.7247515
+206,Viet Nam,Ho Chi Minh,10.7758439,106.7017555
+207,France,Bourgogne-Franche-Comté,,
+208,Russian Federation,Krasnodarskiy,45.282495,38.3191998
+209,Japan,Kanagawa,35.4715173,139.6275394
+210,Russian Federation,Tomsk Oblast,58.6124279,82.0475315
+211,"Korea, Republic of",Seoul,37.5666791,126.9782914
+212,Pakistan,Islamabad,33.6938118,73.0651511
+213,Sweden,Gävleborg,,
+214,Norway,Agder,58.71944225,8.034963534558171
+215,Romania,Bucureşti,,
+216,Cyprus,Pafos,34.7743988,32.4231586
+217,China,Chongqing,29.5647398,106.5478767
+218,Germany,Lower Saxony,52.8398531,9.075962
+219,Italy,Tuscany,43.4586541,11.1389204
+220,Poland,Łódź Voivodeship,51.9788158,21.4115258
+221,Mexico,Chihuahua,28.5000001,-106.0000001
+222,Bosnia and Herzegovina,Federation of B&H,43.85141,18.409386
+223,Belarus,Brest,48.3905283,-4.4860088
+224,Norway,Rogaland,58.93631375,5.805878643040238
+225,Italy,Piedmont,37.8243715,-122.231635
+226,Brazil,Rio de Janeiro,-22.9110137,-43.2093727
+227,Mexico,Jalisco,20.3333331,-103.6666671
+228,Canada,Nova Scotia,45.1960403,-63.1653789
+229,Kenya,Nairobi Area,-1.30422895,36.830816950117935
+230,Viet Nam,Hanoi,21.0294498,105.8544441
+231,United States,Southland,-45.92542665,167.60684826776085
+232,Czechia,South Moravian,11.9985578,-83.765096
+233,Poland,West Pomerania,53.91692155,14.24838117010095
+234,Australia,Australian Capital Territory,-35.4883502,149.0026942
+235,Switzerland,Solothurn,47.31874,7.6698284
+236,Malta,Dingli,35.8604202,14.3816818
+237,India,Chandigarh,30.7334421,76.7797143
+238,Ukraine,Ternopil Oblast,49.6630002,25.6167516
+239,Russian Federation,Mordoviya Republic,,
+240,Egypt,Cairo,30.0443879,31.2357257
+241,New Zealand,Canterbury,51.2800275,1.0802533
+242,Germany,Saarland,49.3841872,6.9537369
+243,United States,Wyoming,43.1700264,-107.568534
+244,Puerto Rico,Ponce,18.011564,-66.613958
+245,China,Jiangsu,33.0000001,119.9999999
+246,Czechia,Zlín,51.4162975,3.7028061
+247,China,Sichuan,30.5000001,102.4999999
+248,United States,Louisiana,30.8703881,-92.007126
+249,Spain,Asturias,43.271087800000004,-5.854145744587305
+250,Ukraine,Volyn,51.5451167,24.6627893
+251,India,Andhra Pradesh,15.9240905,80.1863809
+252,Germany,Rheinland-Pfalz,49.9531599,7.310646
+253,Germany,Saxony-Anhalt,52.0089065,11.7003344
+254,India,Gujarat,22.3850051,71.745261
+255,Sri Lanka,Western,0.5090396,34.5731341
+256,Russian Federation,Bashkortostan Republic,54.7698983,59.9465256
+257,Germany,Hamburg,53.550341,10.000654
+258,Spain,Cantabria,43.1595664,-4.0878382
+259,Netherlands,Gelderland,52.1014041,5.9515701
+260,United Kingdom,Northern Ireland,54.5859836,-6.9591554
+261,Switzerland,Aargau,47.412396,8.1948321
+262,Israel,Jerusalem,31.79592425,35.21198075969497
+263,Brazil,Bahia,-12.285251,-41.9294776
+264,Latvia,Riga,56.9493977,24.1051846
+265,Turkey,İzmir,,
+266,Turkey,Kahramanmaraş,,
+267,Russian Federation,Udmurtiya Republic,,
+268,United States,Aleppo,36.19924,37.1637253
+269,Russian Federation,Tatarstan Republic,55.7906168,49.1146427
+270,France,Centre-Val de Loire,47.5490251,1.7324062
+271,Brazil,Santa Catarina,-27.0628367,-51.114965
+272,Colombia,Bogota D.C.,4.6533326,-74.083652
+273,Austria,Vorarlberg,47.25,9.9166667
+274,China,Zhejiang,29.0000001,119.9999999
+275,South Africa,KwaZulu-Natal,-28.503833,30.8875009
+276,"Bolivia, Plurinational State of",Cochabamba,-17.3936114,-66.1568983
+277,Switzerland,Ticino,46.3351913,8.7525902
+278,Germany,Maniema,-2.9612778,25.9634848
+279,Myanmar,Rangoon,16.7967129,96.1609916
+280,United States,Alaska,64.4459613,-149.680909
+281,United States,North Dakota,47.6201461,-100.540737
+282,"Korea, Republic of",Busan,35.1799528,129.0752365
+283,Portugal,Porto,41.1494512,-8.6107884
+284,Netherlands,Utrecht,52.080985600000005,5.12768396945229
+285,New Zealand,Nelson,-41.2710849,173.2836756
+286,Canada,Manitoba,55.001251,-97.001038
+287,Turkey,Manisa,38.6125232,27.4334933
+288,Qatar,Baladīyat ad Dawḩah,,
+289,Argentina,Santa Fe,-30.3154739,-61.1645076
+290,Italy,Campania,40.860672,14.843984
+291,Paraguay,Asunción,18.0593173,-96.7867894
+292,United States,Hawaii,19.593801499999998,-155.42837009716908
+293,Russian Federation,Kursk,51.739433,36.179604
+294,France,Auvergne-Rhône-Alpes,,
+295,Italy,Sicily,37.587794,14.155048
+296,Spain,Canary Islands,28.286398900000002,-16.796011808910734
+297,Switzerland,Lucerne,47.0505452,8.3054682
+298,Poland,Pomerania,54.24556,18.1099
+299,United States,Saint Andrew,18.0539564,-76.76197426035179
+300,Romania,Dolj,44.2141283,23.669234908203126
+301,France,Occitanie,43.6487851,2.3435684
+302,United Kingdom,Sandy Ground,18.0580902,-63.1000249
+303,Italy,Abruzzo,42.227681,13.854983
+304,Nicaragua,Managua,12.1459907,-86.2746665
+305,Ireland,Ulster,54.574243249999995,-6.948159941337819
+306,Colombia,Santander,43.4620412,-3.8099719
+307,China,Shandong,36.0000001,118.9999999
+308,Armenia,Yerevan,40.1776245,44.5126174
+309,Germany,Brandenburg,52.8455492,13.2461296
+310,Sweden,Jämtland,,
+311,"Iran, Islamic Republic of",Razavi Khorasan,35.4795009,59.0237291
+312,Cyprus,Nicosia,35.1748976,33.3638568
+313,Italy,Emilia-Romagna,44.525696,11.039437
+314,Greece,Central Macedonia,40.6186482,22.91795361795959
+315,Jamaica,Kingston,17.9712148,-76.7928128
+316,Greece,Crete,35.308495199999996,24.46334231842296
+317,Romania,Iaşi,51.456798,7.01846913096595
+318,Belgium,Wallonia,50.154533099999995,5.3991821671645575
+319,Brunei Darussalam,Brunei-Muara District,4.97405835,114.94471009789974
+320,Romania,Maramureş,,
+321,United States,West Bank,32.0254688,35.2888075
+322,Spain,Valencia,39.4697065,-0.3763353
+323,Turkey,Eskişehir,,
+324,Spain,Murcia,37.9923795,-1.1305431
+325,Indonesia,Jakarta,-6.1753942,106.827183
+326,Russian Federation,Smolenskaya Oblast’,54.9452751,31.1103822
+327,Russian Federation,Tula,45.2678347,1.7706797
+328,Chile,Santiago Metropolitan,-33.4377756,-70.6504502
+329,India,Rajasthan,26.8105777,73.7684549
+330,Hungary,Csongrád,,
+331,France,Grand Est,48.4845157,6.113035
+332,Portugal,Lisbon,38.7077507,-9.1365919
+333,Poland,Silesia,38.7423369,-76.9988641
+334,Norway,Møre og Romsdal,,
+335,"Moldova, Republic of",Chișinău Municipality,22.208954650000003,113.54157704320997
+336,Iraq,Baghdad,33.3024309,44.3787992
+337,Indonesia,West Java,-6.8891904,107.6404716
+338,Canada,Prince Edward Island,46.503545349999996,-63.595517139914485
+339,Brazil,West Nusa Tenggara,-8.7892855,117.146169
+340,Nigeria,Lagos,6.4550575,3.3941795
+341,United States,Zhambyl,47.205521,71.394493
+342,Netherlands,North Brabant,51.6017723,5.4441391
+343,India,West Bengal,22.9964948,87.6855882
+344,Russian Federation,Samara Oblast,53.2128813,50.8914633
+345,Malaysia,Perak,4.812181,100.9797908
+346,Cambodia,Phnom Penh,11.568271,104.9224426
+347,Russian Federation,Nizhny Novgorod Oblast,55.4718033,44.0911594
+348,Saudi Arabia,Riyadh Region,23.333333,45.333333
+349,"Venezuela, Bolivarian Republic of",Distrito Federal,19.4326296,-99.1331785
+350,Malaysia,Penang,5.4065013,100.2559077
+351,Japan,Kyoto,35.021041,135.7556075
+352,Austria,Tyrol,47.223193,11.5261028
+353,Croatia,Split-Dalmatia,43.5116383,16.4399659
+354,Argentina,Mendoza,-34.787093049999996,-68.43818677312292
+355,Italy,Trentino-Alto Adige,46.441472,11.282121
+356,United Kingdom,Hamilton city,-37.7878809,175.281788
+357,Brazil,Atlántico,,
+358,Brazil,Espírito Santo,,
+359,Slovenia,Ljubljana,46.0499803,14.5068602
+360,Russian Federation,Novosibirsk Oblast,55.8204953,78.866158
+361,Italy,Liguria,44.4777617,8.7026296
+362,Maldives,Kaafu Atoll,4.437813800000001,73.53966432958072
+363,Turkey,Mersin,36.7978381,34.6298391
+364,Azerbaijan,Baki,40.3754434,49.8326748
+365,Benin,Littoral,4.203033,10.0563057
+366,Austria,Carinthia,46.7500001,13.8333333
+367,Ukraine,Dnipropetrovsk Oblast,48.662589,34.9501715
+368,Lithuania,Kaunas,54.8982139,23.9044817
+369,Ecuador,Guayas,-2.0,-80.0
+370,Malaysia,Selangor,3.2083304,101.304146
+371,"Iran, Islamic Republic of",Zanjan,36.515854,48.4777616
+372,Slovenia,Krško,35.7627636,47.7816626
+373,Lithuania,Vilnius,54.6870458,25.2829111
+374,Hungary,Pest,47.4942216,19.0529846
+375,Bosnia and Herzegovina,Srpska,42.3742561,19.2181165
+376,Ethiopia,Addis Ababa,9.0107934,38.7612525
+377,Croatia,Primorsko-Goranska,45.32608585,14.44314244262918
+378,Sweden,Blekinge,56.12401225,15.40220875187768
+379,Philippines,Central Visayas,10.2611289,123.8693264355247
+380,Finland,Southwest Finland,60.30361135,22.411308426390978
+381,Uzbekistan,Tashkent,41.3123363,69.2787079
+382,Netherlands,Groningen,53.2190652,6.5680077
+383,Hungary,Hajdú-Bihar,,
+384,Sweden,Kalmar,56.6628826,16.3662382
+385,Norway,Viken,59.9263265,9.904234519577855
+386,Viet Nam,Hải Dương,14.5843127,121.1228088
+387,Spain,Castille-La Mancha,39.08328815,-3.327201452922372
+388,Slovenia,Murska Sobota,46.6624644,16.1655256
+389,"Iran, Islamic Republic of",Fars,29.299051,53.218456
+390,Bulgaria,Varna,43.2073873,27.9166653
+391,Sweden,Halland,56.96045925,12.807325812324002
+392,New Zealand,Otago,-45.39750525,170.1778918093833
+393,Israel,Central District,-21.4790187,26.2154174
+394,Germany,Northern District,16.94717585,96.11330993765567
+395,Ghana,Ashanti,6.8003319,-1.5188142
+396,Switzerland,Bern,46.9482713,7.4514512
+397,Brazil,Paraíba,-4.7493933,-52.8973006
+398,Finland,Central Finland,62.609365800000006,25.579461022851078
+399,Denmark,North Denmark,56.6107609,-2.6571063
+400,Ukraine,Lviv Oblast,49.6512234,23.8266948
+401,Zimbabwe,Harare,-17.831773,31.045686
+402,Slovenia,Celje,46.2293889,15.2616828
+403,Lebanon,Beyrouth,33.8959203,35.47843
+404,Switzerland,Province 1,43.0805539,-7.6703913
+405,Chile,O'Higgins Region,-34.534538,-71.0354822
+406,Austria,Styria,47.2500001,15.1666665
+407,Ecuador,Pichincha,-0.0584893,-78.3284371
+408,Uruguay,Maldonado,-34.9087162,-54.9582718
+409,Netherlands,Flevoland,52.4484375,5.4235397
+410,Japan,Ōsaka,41.2033609,47.1802623
+411,Ukraine,Chernivtsi Oblast,48.3810791,26.1081673
+412,Germany,Schleswig-Holstein,54.1853998,9.8220089
+413,India,Chhattisgarh,21.6637359,81.8406351
+414,Romania,Constanța,-23.005198,-51.9530302
+415,Brazil,Mato Grosso,-12.2115009,-55.5716547
+416,Russian Federation,Perm,58.88439115,56.43899467562514
+417,Russian Federation,Moscow Oblast,55.607118,38.92831082253613
+418,Nepal,Bagmati Province,27.859810850000002,85.39686525407932
+419,Argentina,Buenos Aires,-34.6075682,-58.4370894
+420,United States,Mashonaland West,-17.1449001,29.8289885
+421,Italy,Basilicate,40.500571,16.081953
+422,Sierra Leone,Western Area,8.33460325,-13.065601629260717
+423,Bulgaria,Callao,-12.0522626,-77.1391133
+424,United Kingdom,Loja,37.1664839,-4.1496374
+425,United States,German,51.0834196,10.4234469
+426,Brazil,Pernambuco,-8.4116316,-37.5919699
+427,Sweden,Jönköping,35.657136,139.4070515
+428,Russian Federation,Sverdlovsk,56.7881462,60.66895779116639
+429,Russian Federation,Rostov,47.2213858,39.7114196
+430,France,West Greece,43.2186723,-77.757785
+431,Cuba,English River,41.6447767,-92.359957
+432,"Korea, Republic of",Incheon,37.456,126.7052
+433,Uruguay,Montevideo,-34.9058916,-56.1913095
+434,Argentina,Cordoba,37.8845813,-4.7760138
+435,France,Retalhuleu,14.420139800000001,-91.82970377163953
+436,Mexico,Nuevo León,48.8568471,2.3411047
+437,United States,Kosrae,5.314262149999999,162.9811154168676
+438,China,Hubei,31.15305035,112.88064226239663
+439,Nigeria,Rivers,4.8416028,6.8604088
+440,India,Uttar Pradesh,27.1303344,80.859666
+441,Senegal,Dakar,14.693425,-17.447938
+442,Switzerland,Fribourg,46.6789116,7.1027113
+443,Georgia,T'bilisi,41.707901,44.8029548
+444,Ukraine,Donetsk Oblast,47.9212914,37.7809825
+445,Kyrgyzstan,Bishkek,42.8765615,74.6070079
+446,Russian Federation,Belgorod Oblast,50.6131807,37.24147865814912
+447,Finland,Ostrobothnia,62.9651857,21.2099367431475
+448,Ukraine,Odessa,46.4858883,30.683651011009996
+449,Spain,Balearic Islands,39.613432,2.880353635614984
+450,Mexico,Querétaro,,
+451,Norway,Troms og Finnmark,69.86993469999999,21.827278548625912
+452,Argentina,Chaco,-26.3829647,-60.8816092
+453,Ukraine,Mykolayiv Oblast,46.9553893,32.032564400670495
+454,Ecuador,Azuay,-3.0524451,-79.2395135
+455,Philippines,Calabarzon,14.164402299999999,121.353652535142
+456,United States,San José,14.7258685,-87.5673876
+457,Italy,Umbria,42.965916,12.490236
+458,Finland,North Ostrobothnia,64.9521512,25.69705227344246
+459,Norway,Nordland,67.27564050000001,13.862360639913621
+460,Japan,Chiba,35.609985,140.118126
+461,Brazil,Paraná,40.1025506,70.7959455
+462,Australia,Tasmania,-42.035067,146.6366887
+463,Brazil,Central,22.2818286,114.1582784
+464,Mexico,Baja California,30.0338923,-115.1425107
+465,Switzerland,Thurgau,47.5859649,9.1428769
+466,Portugal,Braga,41.5510583,-8.4280045
+467,Slovenia,Kranj,46.2432635,14.3549501
+468,Slovakia,Nitriansky kraj,48.222978,18.34378526032214
+469,Romania,Sibiu,45.7973912,24.1519202
+470,United States,West,0.5090396,34.5731341
+471,Belarus,Homyel’ Voblasc’,52.4238936,31.0131698
+472,France,Bay of Plenty,-37.9503756,176.93828736155422
+473,United States,Upper West,52.5048842,13.332840451442024
+474,Czechia,Ústecký kraj,48.9637758,6.8859333
+475,Uganda,Central Region,0.2815436,32.6270774
+476,Russian Federation,Orenburg Oblast,52.0269262,54.7276647
+477,Romania,Satu Mare,47.7891763,22.8725598
+478,Philippines,Cordillera,17.35971005,121.07169230452945
+479,Oman,Muscat,23.5907634,58.44600501458025
+480,Morocco,Casablanca-Settat,33.2627128,-7.9639028
+481,Malta,Ir-Rabat,36.0428907,14.2398479
+482,Brazil,Mato Grosso do Sul,-19.5852564,-54.4794731
+483,Portugal,Viseu,40.6574713,-7.9138664
+484,Russian Federation,Vologda,60.0391461,43.1215213
+485,Portugal,Viana do Castelo,41.8803257,-8.523255293554344
+486,Brazil,Ceará,40.610753700000004,-3.114293123393815
+487,Macao,Macau,22.1757605,113.5514142
+488,Saudi Arabia,Mecca Region,21.6698063,41.4996029
+489,United States,Martinique,14.6367927,-61.01582685063731
+490,Albania,Tirana,41.3279485,19.8185512
+491,Norway,Østfold,,
+492,United States,Valletta,35.8989818,14.5136759
+493,Brazil,Rondônia,,
+494,India,Odisha,20.5431241,84.6897321
+495,Spain,Santa Ana,33.7494951,-117.8732213
+496,Italy,Friuli Venezia Giulia,46.151042,13.055904
+497,United States,Surxondaryo,37.9486708,67.7982679
+498,Japan,Hyōgo,21.65567105,105.829977789939
+499,Poland,Lublin,51.250559,22.5701022
+500,Russian Federation,Murmansk,68.970665,33.07497
+501,Ireland,Connaught,51.0410667,-114.082943
+502,Israel,Haifa,32.8191218,34.9983856
+503,Sweden,Västerbotten,,
+504,Russian Federation,Komi,63.9881421,54.3326073
+505,Mexico,Michoacán,,
+506,Brazil,Federal District,-15.7754462,-47.7970891
+507,Netherlands,Drenthe,52.9067922,6.6368423
+508,Norway,Vestfold og Telemark,59.39626765,9.061898163187937
+509,Croatia,Istria,45.193434499999995,13.915053587355306
+510,Philippines,Papua,-5.6816069,144.2489081
+511,Morocco,Marrakesh-Safi,31.6258257,-7.9891608
+512,Turkey,Kocaeli,40.7632288,29.9262644
+513,Romania,Galaţi,10.4908818,14.1852379
+514,Tunisia,Nābul,42.6910405,23.3987343
+515,United States,Hwanghae-bukto,,
+516,Libya,Tripoli,32.896672,13.1777923
+517,Lebanon,South Governorate,33.33971235,35.29259105
+518,China,Anhui,32.0,117.0
+519,Czechia,Central Bohemia,50.0601579,13.83074794209991
+520,Malaysia,Sabah,5.4257359,117.0326392
+521,Germany,Thuringia,50.9014721,11.0377839
+522,India,Puducherry,11.9340568,79.8306447
+523,India,Uttarakhand,30.0417376,79.089691
+524,China,Fujian,26.5450001,117.842778
+525,South Africa,Northern Cape,-29.573402,21.2051361
+526,United States,Howland Island,0.8075145,-176.61686999040523
+527,New Zealand,Waikato,-37.77922725,175.2010323246593
+528,United States,Trarza,17.922642,-14.8476017
+529,Spain,Castille and León,50.2490299,3.1244961
+530,Honduras,Francisco Morazán,,
+531,Kazakhstan,Hokkaido,43.4519831,142.8197834
+532,Kuwait,Al Asimah,29.09261275,48.51334671327169
+533,Indonesia,Bali,48.8588897,2.3200410217200766
+534,Russian Federation,Penza,53.200001,45.0
+535,United Kingdom,West Bay,45.732272550000005,-61.19793131302212
+536,Egypt,Alexandria,31.199004,29.894378
+537,France,Normandy,49.0677708,0.3138532
+538,Germany,Mecklenburg-Vorpommern,53.7735064,12.5755471
+539,China,Henan,34.0000001,113.9999999
+540,United States,Zeeland,51.4162975,3.7028061
+541,China,Tibet,29.8556443,90.8749807
+542,Austria,Burgenland,47.5000001,16.4166666
+543,Turkey,Van,47.6586772,-2.7599079
+544,Slovakia,Žilinský kraj,,
+545,"Bolivia, Plurinational State of",La Paz,-16.4955455,-68.1336229
+546,Brazil,Goiás,15.380501500000001,73.8317012646639
+547,Poland,Warmia-Masuria,54.2084102,21.7446959
+548,Indonesia,East Java,-7.6977397,112.4914199
+549,Russian Federation,Ulyanovsk,54.3107593,48.3642771
+550,Norway,Vestfold,57.2983388,9.6564832
+551,France,Northern Mindanao,8.40067265,124.70998901929246
+552,Tunisia,Al Munastīr,,
+553,China,Tianjin,39.0856735,117.1951073
+554,France,Alsace,48.24917645,7.4074699518555
+555,Japan,Okinawa,26.4748948,127.91146866408414
+556,Hungary,Komárom-Esztergom,,
+557,Greece,Central Greece,38.5624595,23.161852844371445
+558,United States,Laḩij,49.4203914,32.0619362
+559,Hungary,Borsod-Abaúj-Zemplén,,
+560,Morocco,Tanger-Tetouan-Al Hoceima,35.202941,-5.5510167
+561,Finland,Pirkanmaa,61.71743305,23.71571148842662
+562,Malaysia,Aichi,36.2125181,46.2043484
+563,Sri Lanka,Southern,6.149,80.73181777500001
+564,Russian Federation,Yaroslavl Oblast,57.7472051,39.10407446899451
+565,Switzerland,Schwyz,47.0571976,8.7222073
+566,United States,San Juan,18.465299,-66.116666
+567,Romania,Bihor,46.991901150000004,22.19072600282265
+568,Belarus,Grodnenskaya,51.6482544,39.1876397
+569,Switzerland,Grisons,46.6960615,9.6027351
+570,Romania,Prahova,45.10875455,26.03762296377709
+571,Thailand,Chiang Mai,18.7882778,98.9858802
+572,United States,Bayamón,3.5805953,98.6618237
+573,Netherlands,Friesland,53.0923689,5.777043
+574,United States,Red Sea,20.29654545,38.53429714399387
+575,Russian Federation,Volgograd Oblast,49.34550515,44.40697713575031
+576,France,Granma,20.20147655,-77.28860489881416
+577,Portugal,Aveiro,40.640496,-8.6537841
+578,Cuba,Camagüey,,
+579,Switzerland,Saint Gallen,45.7379405,4.7712275
+580,Greece,Peloponnese,37.36332825,22.239537343995494
+581,Mexico,Quintana Roo,19.6666671,-88.5000001
+582,Romania,Braşov,52.7908685,6.0996977
+583,Norway,Akershus,60.03851925,11.320172312435517
+584,Algeria,Algiers,36.7753606,3.0601882
+585,Russian Federation,Saratovskaya Oblast,53.1883657,44.9944315
+586,Slovenia,Bovec,46.3385467,13.5525933
+587,Montenegro,Pljevlja,43.3565611,19.3584715
+588,Slovenia,Maribor,46.5576439,15.6455854
+589,Norway,Innlandet,61.26810555,10.485458802304304
+590,Afghanistan,Takhar,36.5940732,69.7938996
+591,Thailand,Nakhon Ratchasima,15.2241917,101.9313754
+592,Thailand,Chai Nat,15.1531192,100.1524275
+593,Syrian Arab Republic,Dimashq,33.5130695,36.3095814
+594,Slovakia,Prešovský kraj,,
+595,United States,Kedah,5.8098265,100.6715035
+596,United States,Saint-Louis,38.6264256,-90.1995853
+597,Finland,North Karelia,62.80105195,30.212711589188956
+598,Canada,Tambov,52.72879,41.45536
+599,Hong Kong,Kwai Tsing,22.352309,114.1295369
+600,Latvia,Talsi Municipality,57.2451926,22.5903003
+601,Dominican Republic,Santiago,-33.4377756,-70.6504502
+602,Israel,Southern District,22.21926895,114.2252233573989
+603,Finland,Lapland,67.69291045,26.728204479201416
+604,Turkey,Bursa,40.1827657,29.0677305
+605,Argentina,Tierra del Fuego,-53.755479449999996,-68.93325709514139
+606,Ghana,Greater Accra,5.5571096,-0.2012376
+607,Ukraine,Vinnytsya Oblast,49.2392809,28.5110617
+608,Spain,Eastern Cape,-32.2171831,26.6386401
+609,Egypt,Dakahlia,31.13800465,31.88824986845627
+610,Uruguay,Canelones,-34.6222482,-55.9903797
+611,Russian Federation,Stavropol’ Kray,,
+612,United States,San Miguel,38.0292476,-108.4712533
+613,Mexico,Colonia,50.938361,6.959974
+614,Russian Federation,Kaliningrad,54.710128,20.5105838
+615,Russian Federation,Krasnoyarskiy,49.4699947,42.8925135
+616,Cyprus,Limassol,34.6852901,33.0332657
+617,Czechia,Plzeňský kraj,,
+618,"Iran, Islamic Republic of",Isfahan,32.6707877,51.6650002
+619,Slovenia,Kamnik,46.2257358,14.6118936
+620,Russian Federation,Ryazan Oblast,54.3377572,40.60199615386047
+621,Sweden,Norrbotten,66.9798719,20.000300813027625
+622,Viet Nam,Da Nang,16.068,108.212
+623,Luxembourg,Esch-sur-Alzette,49.4959628,5.9850306
+624,Ukraine,Crimea,45.28350435,34.20081877526554
+625,"Iran, Islamic Republic of",Khuzestan,31.5535141,49.0077168
+626,Russian Federation,Omsk,54.991375,73.371529
+627,Malta,Saint Julian,52.62485255,1.3006815809417671
+628,Ukraine,Rivne,51.2074112,26.5208033
+629,Portugal,Santarém,43.2655396,-8.2417802
+630,Russian Federation,Ivanovo,56.9984452,40.9737394
+631,Russian Federation,Lipetsk Oblast,52.7372011,38.922866613332914
+632,Sweden,Västernorrland,,
+633,Nicaragua,Río San Juan,-41.137042,-71.3569115
+634,Argentina,Entre Rios,-31.6252842,-59.3539578
+635,Ukraine,Zaporizhzhya Oblast,47.8507859,35.1182867
+636,Bangladesh,Chittagong,22.3364709,91.8260479
+637,Sweden,Gotland,57.4174802,18.536957927499856
+638,China,Hunan,27.6662087,111.7487063
+639,Argentina,Santiago del Estero,-27.6431016,-63.5408542
+640,Thailand,Krabi,8.0610907,98.9161607
+641,Switzerland,Zug,47.1486137,8.5539378
+642,United States,Saint Thomas Island,52.69,-8.62
+643,Russian Federation,Mariy-El Republic,56.5767504,47.8817512
+644,Lao People's Democratic Republic,Nagano,36.1143945,138.0319015
+645,Colombia,Nariño,33.4061927,74.9771833
+646,Slovakia,Košický kraj,,
+647,Slovenia,Vrhnika,45.9663607,14.2980772
+648,Colombia,Bolívar,43.4026942,6.0699763
+649,Russian Federation,Sakha,66.941626,129.642371
+650,Australia,Northern Territory,-19.8516101,133.2303375
+651,Italy,Aosta Valley,45.730099,7.387426
+652,Mexico,Arkhangelskaya,45.679554,40.275406
+653,Slovenia,Idrija,46.0023983,14.0273014
+654,Tunisia,Madanīn,22.5848294,88.3682707
+655,Brazil,Pará,-28.8166236,24.991639
+656,Peru,Lima region,11.1489956,124.8788775
+657,United Arab Emirates,Abu Dhabi,24.4538352,54.3774014
+658,United States,Long Island,40.85149705,-73.0994258107431
+659,Slovenia,Slovenska Bistrica,46.391944,15.5727757
+660,United States,Mayagüez,,
+661,Czechia,Moravskoslezský,,
+662,United States,Ordu,40.8292569,37.4082764
+663,Russian Federation,Vladimir,56.1288899,40.4075203
+664,Italy,The Marches,52.2507241,-1.1543052
+665,Russian Federation,Primorskiy (Maritime) Kray,,
+666,Burkina Faso,Nord,50.52896715,3.0883523694464854
+667,Cyprus,Larnaka,34.9236095,33.6236184
+668,Romania,Buzău,48.2416793,8.4040491
+669,Czechia,Královéhradecký kraj,,
+670,Italy,Apulia,40.9842539,16.6210027
+671,Chile,Los Ríos Region,,
+672,Mongolia,Ulaanbaatar,47.9184676,106.9177016
+673,Greece,Ionian Islands,38.8342261,20.7105368
+674,Canada,Nunavut,65.0377727,-92.5540791
+675,Norway,Hordaland,51.9359532,4.5987267
+676,Finland,Central Ostrobothnia,63.6476557,24.111411271292845
+677,Czechia,Liberecký kraj,,
+678,Japan,Nara,-0.5275000000000001,166.93479227083333
+679,South Africa,North-West,-26.1347819,25.6546729
+680,Malaysia,Johor,2.0229012,103.3147721
+681,Russian Federation,Chelyabinsk,55.1598408,61.4025547
+682,"Moldova, Republic of",Transnistria,46.9905668,29.4772511
+683,United States,Marlborough,42.3459271,-71.5522874
+684,Indonesia,Yogyakarta,-7.9778383999999996,110.36722565020224
+685,France,Western Province,-15.8543496,23.8016799
+686,Russian Federation,Voronezj,51.6605982,39.2005858
+687,Sweden,Södermanland,,
+688,Portugal,Leiria,39.7437902,-8.8071119
+689,Ukraine,Sumy,50.90007875,34.809040734367024
+690,United States,Portland,45.5202471,-122.6741949
+691,Romania,Arges,44.99415675,24.84891338608522
+692,Thailand,Phuket,7.9366015,98.3529292
+693,Russian Federation,Bryansk Oblast,52.9394031,33.16871248080911
+694,Guatemala,Guatemala,15.687100699999998,-90.12265453178017
+695,United Kingdom,Warwick,52.2814519,-1.5815742
+696,Saudi Arabia,Eastern Province,23.3036077,50.1258804
+697,India,Bihar,25.6440845,85.906508
+698,United States,Saint John Figtree,17.1130194,-62.5997933
+699,South Africa,Northern Region,2.797198,32.2643949
+700,Liberia,Montserrado,6.384,-10.787
+701,Cayman Islands,George Town,5.4141619,100.3287352
+702,Czechia,Jihočeský kraj,,
+703,Russian Federation,Aqmola,41.2094934,69.4914326
+704,Austria,Lower Austria,48.2817813,15.7632457
+705,Saint Lucia,Gros-Islet,14.0801333,-60.9524988
+706,Mexico,Chiapas,16.5000001,-92.5000001
+707,Botswana,Gaborone,-24.6581357,25.9088474
+708,United Kingdom,St Helier,49.1856637,-2.1102277
+709,Philippines,Eastern Visayas,11.327827249999999,124.99755612215378
+710,France,Bourgogne,47.27808725,4.222486304306048
+711,Ukraine,Zhytomyr,50.9080532,28.3867504
+712,Guinea,Conakry,9.5170602,-13.6998434
+713,United States,Māzandarān,,
+714,Russian Federation,Tver’ Oblast,57.1134475,35.1744428
+715,Turkey,Trabzon,41.0062202,39.7257547
+716,United States,Kermānshāh,,
+717,Slovenia,Jesenice,46.4323791,14.0623337
+718,American Samoa,Western District,16.796957,96.13826836099824
+719,"Venezuela, Bolivarian Republic of",Zulia,10.116727000000001,-72.37632623132441
+720,"Iran, Islamic Republic of",Golestan,37.1984436,55.070672
+721,Latvia,Līgatne,53.9382407,22.9505298
+722,Argentina,Tucuman,-26.5643582,-64.882397
+723,Indonesia,Jambi,-1.611572,102.779699
+724,Ecuador,Galápagos,,
+725,Ireland,New Ireland,-3.70179395,152.43578108705879
+726,Guadeloupe,Guadeloupe,16.2490067,-61.5650444
+727,Turkey,Antalya,36.9009641,30.6954846
+728,Russian Federation,North Ossetia,42.9920711,44.2636348
+729,United States,Az Zāwiyah,,
+730,Nigeria,Oyo,8.2151249,3.5642897
+731,Yemen,Amanat Alasimah,,
+732,Russian Federation,Kaluga,54.5101087,36.2598115
+733,Sweden,Dalarna,61.060377849999995,14.215087316959057
+734,Japan,Okayama,34.6553944,133.9194595
+735,North Macedonia,Struga,41.1770278,20.6790586
+736,United States,Midway Islands,28.2417536,-177.3754308
+737,Vanuatu,Shefa,-17.32839675,168.25473162821086
+738,Sweden,Limbažu novads,,
+739,United States,Borgou,9.7097453,2.7422648
+740,France,Togdheer,9.3014858,45.4849998
+741,El Salvador,San Salvador,13.6989939,-89.1914249
+742,Croatia,Bjelovarsko-Bilogorska,45.7462142,16.9212335
+743,France,Corsica,42.188089649999995,9.068413771427695
+744,Switzerland,Glarus,46.9796562,9.108812
+745,Mexico,Oaxaca,17.0,-96.5
+746,"Iran, Islamic Republic of",Qom,34.6423117,50.8800969
+747,South Africa,Limpopo,-23.4735288,29.3959199
+748,Portugal,Faro,37.0162727,-7.9351771
+749,Bangladesh,Khulna,22.808368899999998,89.44268870147594
+750,Hungary,Győr-Moson-Sopron,,
+751,Japan,Tokushima,34.0698307,134.5550353
+752,United States,Central Sulawesi,-1.6937786,120.8088555
+753,Kazakhstan,Almaty,43.2363924,76.9457275
+754,Panama,Panamá,48.8588897,2.3200410217200766
+755,Switzerland,Uri,46.7864413,8.6420159
+756,New Zealand,Gisborne,-38.661326,178.0206487
+757,Montenegro,Tivat,42.4303762,18.6988104
+758,Brazil,Rio Grande do Norte,-5.6781175,-36.4781776
+759,Paraguay,Alto Paraná,,
+760,Japan,Hiroshima,34.3916058,132.4518156
+761,Spain,Extremadura,39.1748426,-6.1529891
+762,United States,West Kalimantan,-0.1322387,111.0968901
+763,India,Manipur,24.7208818,93.9229386
+764,Cuba,Havana,23.135305,-82.3589631
+765,North Macedonia,Bitola,41.0316005,21.3302511
+766,Argentina,Guna Yala,9.187597499999999,-77.87137226376693
+767,Romania,Arad,46.1753793,21.3196342
+768,Belarus,Vitebsk,55.1930197,30.2070437
+769,Bulgaria,Burgas,42.343926,-3.696977
+770,Malta,Il-Mosta,35.9079178,14.4241508
+771,Ukraine,Ivano-Frankivsk Oblast,48.7481718,24.5207477
+772,Russian Federation,Kostroma Oblast,58.44619025,43.82349536196553
+773,Malaysia,Melaka,2.3293744,102.2880962
+774,Mexico,Coahuila,27.3333331,-102.0000001
+775,Japan,Fukuoka,33.6251241,130.6180016
+776,Dominican Republic,Nacional,-19.8516634,-44.0279863
+777,"Bolivia, Plurinational State of",Santa Cruz,28.469648,-16.2540884
+778,Bulgaria,Sofia,-15.2538402,48.2562163
+779,Uruguay,Rocha,-34.0,-54.0
+780,United States,St. Andrew,43.6477917,-79.3848711
+781,Russian Federation,Chuvashia,55.4259922,47.0849429
+782,Switzerland,Schaffhausen,47.6960491,8.634513
+783,Mexico,Guerrero,17.666667,-100.0
+784,Italy,Middle Shabele,,
+785,Saudi Arabia,West Azerbaijan,36.5263762,46.2151571
+786,Czechia,Pardubický,,
+787,Indonesia,North Sumatra,2.1923519,99.3812201
+788,Thailand,Khon Kaen,16.6022387,102.6352933
+789,Switzerland,Basel-Landschaft,47.5092938,7.6588333
+790,Croatia,Zadarska,43.3069419,17.0162308
+791,Mexico,Veracruz,19.333333,-96.666667
+792,New Zealand,Manawatu-Wanganui,-39.6407734,175.57135568879124
+793,Italy,Calabria,39.0565974,16.5249864
+794,Mexico,Aguascalientes,22.0000001,-102.5000001
+795,Réunion,Réunion,45.9582396,-66.6238153
+796,United States,North Eleuthera,25.377669400000002,-76.78426554397748
+797,Colombia,Valle del Cauca,4.0638178,-76.12335581641676
+798,Latvia,Jūrmala,,
+799,Finland,Kymenlaakso,60.7318529,27.082883965665257
+800,Philippines,Bicol,13.100588,123.52313310936306
+801,Hungary,Fejér,-3.80978355,-38.61441689439626
+802,Malta,Tas-Sliema,35.9127609,14.5020708
+803,China,Jilin,42.9995032,125.9816054
+804,United States,Qyzylorda,44.8426778,65.5036151
+805,Switzerland,Nidwalden,46.942756,8.4119773
+806,United States,East New Britain,-5.1386278,151.9020187
+807,Philippines,West Coast,-42.5638896,171.45233400435404
+808,Brazil,Alagoas,-9.6611661,-36.6502426
+809,North Macedonia,Strumica,41.4392045,22.6397203
+810,Portugal,Madeira,32.751748750000004,-16.981752048847362
+811,Mexico,Yucatán,52.0451686,5.2957054
+812,Mexico,Sinaloa,25.0000001,-107.5000001
+813,Greece,Epirus,39.649766299999996,20.69097798672906
+814,"Venezuela, Bolivarian Republic of",Carabobo,10.166667,-68.083333
+815,Switzerland,Neuchâtel,,
+816,Philippines,Dededo,13.519054,144.83783877764978
+817,Russian Federation,Kemerovo Oblast,54.2353319,85.3785008
+818,Romania,Neamţ,7.0284943,100.4940885
+819,Bulgaria,Ruse,43.8480413,25.9542057
+820,Malaysia,Terengganu,4.8630743,102.9949297
+821,Chile,Araucanía,,
+822,Japan,Ehime,33.6013646,132.8185275
+823,South Africa,Gyeonggi-do,37.2752,127.0095
+824,Malta,Saint John,45.278752,-66.058044
+825,Turkey,LY.58,26.8234472,18.1236723
+826,United States,Chiriquí,,
+827,United States,Nordgrønland,,
+828,Brazil,Tocantins,-10.8855129,-48.3716912
+829,Argentina,Salta,-25.1076701,-64.3494964
+830,Pakistan,Balochistan,28.0,66.0
+831,Egypt,Giza,29.9870753,31.2118063
+832,Brazil,Qazvīn,,
+833,Russian Federation,Tyumen’ Oblast,58.8206488,70.3658837
+834,Mexico,Colima,19.166667,-104.0
+835,United States,Republic of Tyva,51.72725585,94.41336944026332
+836,Latvia,Gulbenes novads,57.17646275,26.611200257069193
+837,Japan,Fukushima,37.75454,140.4592144
+838,Argentina,Misiones,-26.737224,-54.4315257
+839,United States,Østgrønland,,
+840,Nepal,Gandaki Pradesh,28.384096200000002,84.03632755245305
+841,South Africa,Orange Free State,48.1108895,11.5338207
+842,Turkey,Gaziantep,37.0628317,37.3792617
+843,Latvia,Salaspils,56.8634541,24.3545214
+844,Indonesia,West Sumatra,-0.5827529,100.6133379
+845,Kazakhstan,Nur-Sultan,51.1282205,71.4306682
+846,Mexico,Puebla,18.833333,-98.0
+847,Serbia,Pristina,42.6638771,21.1640849
+848,"Korea, Republic of",Daejeon,36.3496,127.3848
+849,Hong Kong,Islands,52.734444,-7.593056
+850,Bulgaria,Dobrich,43.66377745,27.90021225939759
+851,Japan,Fukui,35.9263502,136.6068127
+852,Viet Nam,Can Tho,10.0364216,105.7875219
+853,Thailand,Nonthaburi,13.8610918,100.3456772
+854,Japan,Miyazaki,31.9076334,131.4204022
+855,India,Jammu and Kashmir,33.6649297,75.1629584
+856,United Kingdom,Tobago,11.24046155,-60.67200597857749
+857,Mexico,Tamaulipas,23.9891553,-98.7026825
+858,United States,Zagrebačka,45.8131847,15.9771774
+859,China,Heilongjiang,48.0000047,127.999992
+860,Czechia,Vysočina,,
+861,Romania,Covasna,45.896679250000005,26.010180611745668
+862,Italy,Souss-Massa,30.187722,-8.6322498
+863,Malaysia,Sarawak,2.5023855,112.9547283
+864,Romania,Harghita,46.6440949,25.620080897737118
+865,Panama,Veraguas,8.241413099999999,-81.11197066772692
+866,Slovenia,Škofja Loka,,
+867,Russian Federation,Irkutsk Oblast,57.72563305,109.01465073847677
+868,India,México,-25.8558423,32.6214349
+869,Romania,Suceava,47.53265345,25.834593917414125
+870,Greece,Thessaly,39.575592900000004,22.163444947273042
+871,Poland,Świętokrzyskie,,
+872,Japan,Saitama,35.8616402,139.6457957
+873,United Kingdom,Mashonaland East,-17.7927323,31.7678044
+874,Norway,Saba,5.4257359,117.0326392
+875,United States,Pavlodar Region,51.8111545,76.4285287
+876,Morocco,Béni Mellal-Khénifra,,
+877,Finland,South Savo,61.8424126,28.02863885451447
+878,Russian Federation,Sakhalin Oblast,49.7219665,143.448533
+879,India,Jharkhand,23.6577621,85.16910512430167
+880,Argentina,Alajuela,10.460632,-84.46725504158994
+881,Slovenia,Ptuj,46.441568000000004,15.886107798694006
+882,Malta,Il-Gżira,,
+883,Kazakhstan,Karaganda,49.8161282,73.1026622
+884,Brazil,Roraima,2.135138,-61.3631922
+885,Mexico,Zacatecas,23.0823582,-103.20856984509811
+886,Timor-Leste,Díli,48.881399,2.357438
+887,Spain,Navarre,42.61254875,-1.830787673361753
+888,United States,Cotopaxi,-0.6861246,-78.43146168817944
+889,Sudan,Khartoum,15.5635972,32.5349123
+890,Norway,Telemark,59.9063655,10.6848421
+891,Equatorial Guinea,Litoral,1.6026374,9.841569
+892,Indonesia,Central Java,-7.3032412,110.0044145
+893,Benin,Atlantique,6.540829,2.223095
+894,Madagascar,Analamanga,-18.6000004,47.51310021616148
+895,Czechia,Karlovarský kraj,,
+896,Finland,North Savo,63.01595725,27.626435801058342
+897,Slovakia,Trenčiansky kraj,,
+898,Russian Federation,Pskov Oblast,57.30485095,29.193050620557898
+899,Thailand,Samut Prakan,13.6531651,100.8182578
+900,Japan,Oita,33.1819875,131.4270217
+901,China,Shaanxi,35.646192049999996,109.56107370545054
+902,"Taiwan, Province of China",Quetzaltenango,14.7360257,-91.6152074
+903,France,Rhône-Alpes,45.7596715,4.8459883
+904,Algeria,Bordj Bou Arréridj,,
+905,Morocco,Rabat-Salé-Kénitra,,
+906,United Kingdom,Shabwah,14.544022,45.909684
+907,China,Guangxi,24.0,109.0
+908,China,Hainan,19.2000001,109.5999999
+909,Isle of Man,Douglas,39.7628415,-88.2170516
+910,Croatia,Osječko-Baranjska,,
+911,Kenya,Kilifi,-3.15073925,39.67507159193717
+912,Bulgaria,Stara Zagora,42.4248111,25.6257479
+913,Bulgaria,Yambol,42.483935,26.5105553
+914,Kazakhstan,Shymkent,42.3146962,69.5883282
+915,Slovakia,Banskobystrický kraj,,
+916,South Africa,Tūnis,50.764693199999996,3.3589981170844974
+917,United States,East Nusa Tenggara,-8.5656787,120.6978581
+918,Bulgaria,Blagoevgrad,41.750287,23.48734109762355
+919,United States,Baladīyat ar Rayyān,,
+920,Ukraine,Cherkasy Oblast,49.3402711,31.610320733574746
+921,Ukraine,Poltava Oblast,49.8607809,33.7498787
+922,Slovenia,Nova Gorica,45.9580549,13.6474706
+923,Thailand,Ubon Ratchathani,15.1879684,105.3269544
+924,Latvia,Liepāja,11.6446568,104.9156264
+925,Poland,Lubusz,52.1001754,15.3605075
+926,Bangladesh,Sylhet,24.59107805,91.71773617004385
+927,Turkey,Adana,36.9863599,35.3252861
+928,Romania,Mureş,43.4599858,1.3262332
+929,Paraguay,Itapúa,60.2083946,25.0789534
+930,Malta,Iż-Żurrieq,,
+931,Belize,Belize,16.8259793,-88.7600927
+932,Colombia,Norte de Santander,8.4417924,-73.0492505
+933,Romania,Tulcea,45.177518,28.8016348
+934,Hong Kong,Kowloon City,22.3301595,114.1899368
+935,Angola,Luanda,-8.8272699,13.2439512
+936,Greece,South Aegean,37.15010315,25.45507683069038
+937,Cambodia,Battambang,12.9256791,103.23171364274523
+938,Croatia,Međimurska,,
+939,France,Baja California Sur,25.5818014,-111.5706164
+940,"Taiwan, Province of China",Kaohsiung,22.6203348,120.3120375
+941,Romania,Olt,44.29140195,24.46610792597381
+942,Romania,Dâmboviţa,,
+943,Argentina,Rio Negro,-26.1047668,-49.7982766
+944,United Arab Emirates,Raʼs al Khaymah,25.7737705,55.938232
+945,Cuba,Mayabeque,22.82541565,-82.07010620179815
+946,Jordan,Irbid,32.5556091,35.8493023
+947,Brazil,Maranhão,,
+948,Uzbekistan,Bukhara,39.7675529,64.4231326
+949,Montenegro,Herceg Novi,42.4517622,18.5367516
+950,Slovenia,Bohinj,46.30203365,13.909015536346129
+951,Algeria,Tiaret,34.8947575,1.594579173136212
+952,Viet Nam,An Giang,27.9966567,108.4056876
+953,Slovenia,Tolmin,46.1828005,13.7328983
+954,Malta,Attard,35.8909172,14.4430093
+955,Bulgaria,Veliko Tarnovo,43.2164885,25.611409300395785
+956,Brazil,Markazi,34.5302705,49.7864561
+957,India,Himachal Pradesh,31.81676015,77.34932051968858
+958,Cameroon,Centre,47.5490251,1.7324062
+959,Côte d'Ivoire,Vallée du Bandama,,
+960,Guyana,Demerara-Mahaica,6.454202,-58.126938409696535
+961,Kenya,Samburu,1.5394463,36.94216599162042
+962,Japan,Gunma,24.0002488,53.9994829
+963,"Iran, Islamic Republic of",Hamadān,35.821211,4.789405820854701
+964,Philippines,Gaza Strip,31.4432234,34.360007
+965,Ukraine,Kherson Oblast,46.5421715,33.4079326
+966,Albania,Olaine,56.7905906,23.9331981
+967,Pakistan,Khyber Pakhtunkhwa,33.712802,71.2678805
+968,Latvia,Jelgava,56.6514394,23.7339143
+969,Japan,Ibaraki,36.2869536,140.4703384
+970,Slovenia,Domžale,-22.8822336,-43.326648
+971,Finland,Satakunta,61.5934279,21.782451158731718
+972,Greenland,Sermersooq,66.0,-40.0
+973,New Zealand,Taranaki,-39.3848064,174.19735050943854
+974,United States,Colón,42.23866,-8.72045
+975,Thailand,Prachuap Khiri Khan,12.0432669,99.7487235
+976,United States,Djelfa,34.342841,3.217253079090331
+977,Slovenia,Žalec,52.6219865,38.5003298
+978,Turkey,Samsun,41.2946149,36.3320596
+979,"Iran, Islamic Republic of",Kerman,29.571858,57.301047
+980,Portugal,Azores,37.808527350000006,-25.473085286479595
+981,Iceland,South,36.638392,127.6961188
+982,Japan,Ishikawa,37.1570412,140.4468974
+983,Thailand,Nakhon Si Thammarat,8.6772337,99.7309635
+984,Cyprus,Keryneia,35.3352654,33.3188405
+985,Philippines,Central Luzon,15.390911849999998,120.68569951248944
+986,"Bolivia, Plurinational State of",Tarija,-21.583333,-63.833333
+987,Hungary,Baranya,45.9714436,18.1669246
+988,Afghanistan,Faryab,35.9261784,64.6237758
+989,Cambodia,Kampot,10.6314754,104.132637
+990,Latvia,Daugavpils,55.8712267,26.5159337
+991,Viet Nam,Sơn La,51.2819292,1.0756987
+992,Tunisia,Manouba,36.7624363,9.833619078262766
+993,Mexico,Guanajuato,20.9876996,-101.0
+994,"Bolivia, Plurinational State of",Chuquisaca,-19.0477251,-65.2594306
+995,Chile,Maule Region,-35.5972284,-71.48868
+996,United States,Príncipe,,
+997,Slovenia,Bled,46.3684202,14.1100595
+998,Poland,Opole Voivodeship,50.8918612,17.9321175
+999,Luxembourg,Mersch,49.7506746,6.1066591
+1000,Japan,Shizuoka,34.979149,138.38299
+1001,Latvia,Ventspils,57.3903918,21.5635991
+1002,North Macedonia,Prilep,41.3444984,21.5527115
+1003,North Macedonia,Tetovo,42.0068297,20.9728556
+1004,United States,Salto,-23.1989983,-47.2913682
+1005,Cuba,Cienfuegos,22.1457501,-80.4526242
+1006,Serbia,Ferizaj,42.3682168,21.1532848
+1007,Bahrain,Manama,17.1750495,95.9999652
+1008,China,Shanxi,37.0,112.0
+1009,Switzerland,Appenzell Ausserrhoden,47.3960076,9.3705839
+1010,Nigeria,FCT,8.8311228,7.1724673
+1011,Ukraine,Sevastopol City,44.6054434,33.5220842
+1012,Botswana,City of Francistown,-21.16636,27.502515
+1013,Eswatini,Hhohho,-26.1022695,31.364094517500757
+1014,Iraq,Nineveh,36.3564339,43.16216471288615
+1015,United States,Bari,41.1257843,16.8620293
+1016,Ghana,Bono,47.6402896,-2.947793
+1017,India,Andaman and Nicobar,10.0001051,93.0000194
+1018,Colombia,Cesar,9.3333415,-73.5000086
+1019,Peru,Junin,-11.5,-75.0
+1020,Canada,Midlands,-19.2785043,29.8790852
+1021,"Korea, Republic of",Daegu,35.8713,128.6018
+1022,United States,Leribe,-28.866891,28.0579408
+1023,Turkey,Canakkale,40.0549886,26.9278292
+1024,Poland,Podlasie,53.2668455,22.8525787
+1025,Malaysia,Labuan,5.3168336,115.2198613
+1026,Canada,St. Elizabeth,53.355642700000004,-2.3435360499999995
+1027,Thailand,Udon Thani,17.5211917,102.6680012
+1028,Trinidad and Tobago,Borough of Arima,,
+1029,Honduras,Cortés,46.1078422,12.0355147
+1030,Japan,Kochi,9.931308,76.2674136
+1031,United States,Santa Rita,-7.128465,-34.9846186
+1032,Russian Federation,Khabarovsk,51.6312684,136.121524
+1033,Russian Federation,Karelia,62.6194031,33.4920267
+1034,"Korea, Republic of",Jeollanam-do,34.8159,126.4629
+1035,India,Hatohobei,3.299279,131.6702524191426
+1036,Jordan,Zarqa,32.0628696,36.073150861344885
+1037,Dominican Republic,Puerto Plata,19.7444333,-70.8000756
+1038,Thailand,Phitsanulok,16.9779975,100.3848239
+1039,Greece,East Macedonia and Thrace,40.8533759,25.8030499
+1040,Croatia,Koprivničko-Križevačka,,
+1041,Philippines,Zamboanga Peninsula,7.77301775,122.75600476636146
+1042,Romania,Bacău,-7.95367235,-35.00954719686635
+1043,Russian Federation,Magadan Oblast,63.5515028,154.014726
+1044,United Kingdom,Orange Walk,17.78310235,-88.85774666564073
+1045,Bulgaria,Kardzhali,41.56876,25.394856878
+1046,France,Lol,8.9160133,27.6723077
+1047,Egypt,Gharbia,34.03850745,-4.27958372392332
+1048,United States,Artemisa,22.8272763,-82.92592448088564
+1049,Finland,Mariehamns stad,60.0878638,19.94710634270203
+1050,Turkey,Balıkesir,,
+1051,Colombia,Sucre,-19.0477251,-65.2594306
+1052,China,Xinjiang,42.4804953,85.4633464
+1053,Indonesia,Khanty-Mansia,61.8793428,68.6418156
+1054,Japan,Nagasaki,33.1154683,129.7874339
+1055,Russian Federation,Kamchatka,57.810429549999995,160.08427403325692
+1056,Cambodia,Preah Sihanouk,10.5098627,103.25870659397378
+1057,Thailand,Songkhla,6.8790221,100.5498542
+1058,Finland,South Ostrobothnia,62.73893905,23.1124434775342
+1059,Italy,Hwanghae-namdo,38.2628262,125.476901
+1060,Colombia,Córdoba,,
+1061,Viet Nam,Sóc Trăng,,
+1062,Cambodia,Siem Reap,13.3617562,103.8590321
+1063,Finland,Southern Red Sea,27.67918735,33.723933312250395
+1064,Finland,South Karelia,61.26664325,28.40538169032333
+1065,"Venezuela, Bolivarian Republic of",Falcón,49.2693274,7.4792173
+1066,Bulgaria,Shumen,43.2703797,26.9247362
+1067,"Congo, The Democratic Republic of the",Kinshasa,-4.3217055,15.3125974
+1068,United States,Puntarenas,9.0954373,-84.2004310002738
+1069,"Korea, Republic of",Jeju-do,33.3939924,126.5626653
+1070,United Arab Emirates,Ajman,25.509128699999998,55.361907248723114
+1071,Suriname,Paramaribo,5.8247628,-55.1703941
+1072,Hungary,Heves,47.7884409,20.1714412
+1073,Peru,Puno,-15.0,-70.0
+1074,Bangladesh,Rangpur Division,25.833558,88.9939966
+1075,Morocco,Rabat-Salé-Zemmour-Zaër,,
+1076,Kenya,Mombasa,-4.05052,39.667169
+1077,Montenegro,Podgorica,42.4415238,19.2621081
+1078,Malta,Tarxien,35.8648857,14.5114877
+1079,Croatia,Hama,35.1343368,36.7496276
+1080,Turkey,Muğla,36.978849,-81.617198
+1081,Sri Lanka,Sabaragamuwa,6.8124018,80.33547643025922
+1082,Indonesia,Banten,-6.4453801,106.1375586
+1083,United States,Cauca,2.715645,-76.662665
+1084,Egypt,Sharqia,35.429196,44.168162
+1085,Kazakhstan,Atyraū,-25.282166500000002,-57.17273300803935
+1086,Syrian Arab Republic,Homs,34.7333334,36.7166667
+1087,Estonia,Saare,57.9115944,22.05579
+1088,Iraq,Kordestān,,
+1089,Mexico,Tabasco,17.95078635,-92.48312213241397
+1090,Philippines,Cagayan Valley,17.6739801,121.88474059349979
+1091,Colombia,Caldas,5.29270885,-75.33510465833348
+1092,"Venezuela, Bolivarian Republic of",Táchira,-19.6023413,-65.9003428
+1093,United States,Machakos,-1.27900465,37.39526976452546
+1094,Ukraine,Kirovohrad Oblast,48.3725226,31.7834817
+1095,"Moldova, Republic of",Bender Municipality,46.8207414,29.449858949436944
+1096,Albania,Durrës,-33.7343249,18.9614408
+1097,Honduras,Lempira,14.45484205,-88.61769689942915
+1098,Indonesia,East Kalimantan,0.7884397,116.2419977
+1099,China,Gansu,38.0000001,101.9999999
+1100,Trinidad and Tobago,Port of Spain,10.6572678,-61.5180173
+1101,Spain,Molise,41.684672,14.595614
+1102,Philippines,Western Visayas,10.67295935,122.72299087286851
+1103,France,Lorraine,48.71557405,6.142460196100687
+1104,Viet Nam,Gia Lai,13.7964067,108.2608263
+1105,Turkey,Diyarbakır,,
+1106,Chile,Nueva Esparta,10.9645415,-64.09754466198463
+1107,,Khomas,-22.9082553,17.09198004041758
+1108,Turkey,Malatya,38.3483098,38.3178715
+1109,Peru,Arequipa,-16.3988667,-71.5369607
+1110,Thailand,Surat Thani,9.4674663,98.830042
+1111,Argentina,Chubut,-43.7128356,-68.7461817
+1112,Chile,Los Lagos Region,-42.300844,-73.105387
+1113,Malaysia,Negeri Sembilan,2.7831895,102.1925319
+1114,Italy,Rajshahi Division,24.4611511,88.6888703
+1115,"Iran, Islamic Republic of",Yazd,32.0406164,54.6657189
+1116,India,Sai Kung,22.3822489,114.2728277
+1117,Brazil,Sergipe,-10.6743911,-37.3773519
+1118,Philippines,Soccsksargen,6.6052578,124.48994400286716
+1119,Algeria,Constantine,36.364519,6.60826
+1120,Latvia,Kuldīgas novads,,
+1121,Spain,La Rioja,42.2814642,-2.482804975070473
+1122,Morocco,Grand Casablanca,11.9359597,79.8313302
+1123,"Iran, Islamic Republic of",Gīlān,40.7144867,-73.9462336
+1124,Russian Federation,Orel Oblast,52.9685433,36.0692477
+1125,Indonesia,South Sulawesi,-3.6446718,119.9471906
+1126,Argentina,La Pampa,-37.2314643,-65.3972948
+1127,Peru,Cusco,-13.5170887,-71.9785356
+1128,United States,Cayo,16.94779405,-88.89088792620106
+1129,Portugal,Castelo Branco,39.97675825,-7.446059929966704
+1130,Argentina,Corrientes,-28.5912315,-57.9394658
+1131,United States,Villa Clara,22.70361185,-79.69449684142177
+1132,Lithuania,Panevėžys,,
+1133,Colombia,Quindío,,
+1134,Indonesia,Gorontalo,0.7186174,122.4555927
+1135,Nigeria,Kogi,7.7949602,6.6868669
+1136,Costa Rica,Cartago,9.81589045,-83.69430288751238
+1137,United States,Rota,36.6228636,-6.3599595
+1138,Tunisia,Sūsah,17.9036287,-62.811568843006896
+1139,,Mitrovica,42.8790424,20.8657862
+1140,United States,Al Batinah South,,
+1141,"Taiwan, Province of China",Taipei,25.0375198,121.5636796
+1142,United Arab Emirates,Sharjah,25.3461498,55.4210633
+1143,Latvia,Luxembourg,49.8158683,6.1296751
+1144,Morocco,Fès-Meknès,,
+1145,United States,Manchester,53.4794892,-2.2451148
+1146,Hungary,Vas,47.1371935,16.780898
+1147,Romania,Bistriţa-Năsăud,,
+1148,Estonia,Ida-Virumaa,59.2092914,27.413023852847708
+1149,Albania,Vlorë,40.45107385,19.49510730541237
+1150,Hungary,Veszprém,,
+1151,Turkey,Denizli,37.7733197,29.0869273
+1152,Lao People's Democratic Republic,Vientiane Prefecture,18.120497999999998,102.65048773310687
+1153,Nigeria,Dhamār,52.1284578,6.0123933
+1154,Uzbekistan,Namangan,41.0036287,71.2611952
+1155,Mexico,Nayarit,21.8438765,-104.87148535201122
+1156,United States,Ma’an,30.2,35.7333329
+1157,United States,Phang Nga,8.5058295,98.5680335
+1158,Viet Nam,Trà Vinh,10.203139,106.21537
+1159,"Tanzania, United Republic of",Dar es Salaam,-6.8160837,39.2803583
+1160,Nigeria,Zamfara,12.0078998,6.4191432
+1161,Guatemala,Escuintla,14.1920487,-91.02804305753845
+1162,China,Hebei,39.0000001,116.0
+1163,Azerbaijan,Xızı,-22.86083675,-43.40660760295226
+1164,Germany,Rankovce,48.809834,21.4596444
+1165,Morocco,Oriental,33.3202138,-2.4238471
+1166,Costa Rica,Guanacaste,10.378844050000001,-85.43382874573226
+1167,India,Haut-Uele,2.7936527,27.6435943
+1168,Gambia,Banjul,13.4410165,-16.56275092072591
+1169,Latvia,Cēsu Rajons,55.75658555,38.34974401697768
+1170,United States,Khmelnytskyy Oblast,,
+1171,Togo,Maritime,6.53703405,1.244338916227091
+1172,Peru,La Libertad,-8.0,-78.5
+1173,Croatia,San Fernando,36.4643934,-6.198203
+1174,Turkey,Sakarya,40.7795743,30.400376
+1175,New Caledonia,South Province,-22.182112150000002,166.5410880406257
+1176,China,Sha Tin,22.3835565,114.1899848
+1177,Croatia,Dubrovačko-Neretvanska,,
+1178,Chile,Coquimbo Region,-30.7546652,-70.9005536
+1179,Ukraine,Transcarpathia,48.211218900000006,22.64866073351834
+1180,Luxembourg,Panamá Oeste,,
+1181,South Africa,Gangwon-do,37.885,127.7297
+1182,Brazil,Woqooyi Galbeed,9.9275021,44.4247057
+1183,Montenegro,Bar,48.4088704,7.4492808
+1184,Algeria,Sétif,48.11839165,-96.17518555452361
+1185,South Africa,Mpumalanga,-26.276849,30.1500153
+1186,Algeria,Annaba,36.8982165,7.7549272
+1187,"Iran, Islamic Republic of",Alborz Province,35.9413239,50.7884216
+1188,Sri Lanka,Northern Province,-9.4514165,30.8881001
+1189,Romania,Vâlcea,,
+1190,Cuba,Isla de la Juventud,21.691097550000002,-82.81558555567702
+1191,Turkey,Sivas,39.4191717,37.1012388
+1192,Iceland,Northeast,21.928672050000003,105.98637605162554
+1193,French Polynesia,Îles du Vent,46.2029456,4.727418126420455
+1194,Thailand,Chon Buri,13.1857117,101.1210777
+1195,United States,Gilbert Islands,-1.2394555500000002,175.29694553869794
+1196,Philippines,Margibi,6.353342,-10.469794874493516
+1197,Croatia,Šibensko-Kniniska,,
+1198,Croatia,Požeško-Slavonska,,
+1199,Russian Federation,Altai Krai,52.5426862,82.70039562274854
+1200,Nigeria,Bauchi,10.6228284,10.0287754
+1201,Mozambique,Maputo City,-26.0317332,28.2025681
+1202,Mali,Bamako,12.61326555,-7.984739136241295
+1203,India,Mizoram,23.2146169,92.8687612
+1204,Viet Nam,Thái Nguyên,,
+1205,United Kingdom,East End,50.7687082,-1.4886462
+1206,Slovenia,Lovrenc na Pohorju,46.5413597,15.3885739
+1207,Argentina,Formosa,23.9739374,120.9820179
+1208,Brazil,Amapá,41.44397705,-8.29355515
+1209,Slovakia,Trnava,48.3767652,17.5858175
+1210,"Taiwan, Province of China",Guizhou,27.0,107.0
+1211,"Tanzania, United Republic of",Mwanza,-2.5196915,32.9014417
+1212,Slovenia,Kitui,-1.5642219499999999,38.372811654368775
+1213,China,Jiangxi,28.0,116.0
+1214,Norway,Buskerud,59.5435778,11.4230694
+1215,Zambia,Lusaka,-15.4164488,28.2821535
+1216,United States,Atsimo-Atsinanana,-23.22352375,47.28351755280973
+1217,India,Meghalaya,25.5379432,91.2999102
+1218,Egypt,South Sinai,28.64495635,33.87113129565117
+1219,United States,North Bank,13.473128299999999,-16.13343591184462
+1220,Dominican Republic,San Cristóbal,,
+1221,Georgia,Achara,24.9266158,74.6742117
+1222,India,Nagaland,26.1630556,94.5884911
+1223,France,Lâm Đồng,-34.52815235,-58.551160344855596
+1224,Lithuania,Siauliai,55.9340823,23.3157775
+1225,,Karas,-26.8752094,17.7634818
+1226,"Venezuela, Bolivarian Republic of",Lara,10.072965,-70.02503361672419
+1227,United Kingdom,Westmoreland,39.392991,-96.412993
+1228,Albania,Shkodër,,
+1229,Dominican Republic,La Altagracia,18.5823788,-68.6587525
+1230,France,Ouest,5.5211184,10.6528684
+1231,Slovenia,Šenčur,46.6800107,8.2087468
+1232,New Zealand,Hawke's Bay,-39.52565115,176.7611456576855
+1233,United States,Borno,45.9473303,10.2064036
+1234,Kenya,Busia,0.39171029999999996,34.01601353436425
+1235,Chile,Biobío,,
+1236,United States,Loíza,44.1833494,0.310809525621239
+1237,Nigeria,Anambra,6.2183136,6.9531842
+1238,Japan,Gifu,35.7867449,137.0460777
+1239,Bahamas,New Providence,25.1943588,-77.29532966890318
+1240,Eswatini,Lubombo,-26.55452,31.86191156647494
+1241,Iraq,Rif-dimashq,33.5,37.75
+1242,Russian Federation,Kirov,58.6035661,49.6666241
+1243,Nicaragua,Masaya,12.0008289,-86.0513672
+1244,Lebanon,Liban-Nord,52.1036959,8.3021255
+1245,France,West Sulawesi,-2.4974546,119.3918955
+1246,Canada,St. James,43.9824577,-94.6269181
+1247,Mozambique,Nampula,-14.966969,39.2707752
+1248,Greece,North Aegean,38.0152331,23.8157224
+1249,Turkey,Konya,37.8725487,32.4942749
+1250,United Kingdom,Saint Croix Island,45.1283672,-67.1335688999232
+1251,Slovenia,Lenart,46.5760851,15.8312836
+1252,Tunisia,Şafāqis,,
+1253,France,Kayin,17.1863135,97.7499316
+1254,Malaysia,Putrajaya,2.9140567,101.6838531
+1255,United States,GrandʼAnse,18.5304144,-74.1511463
+1256,"Iran, Islamic Republic of",Bushehr,28.8936645,51.3204877
+1257,Canada,Sint Eustatius,17.5085293,-62.995421926129886
+1258,Indonesia,Benguela,-12.9104657,14.0356608
+1259,Slovenia,Radovljica,46.343509,14.1720227
+1260,Argentina,Catamarca,-27.1910825,-67.105374
+1261,United States,Caguas,18.2345399,-66.0351316
+1262,Croatia,Maluku,-3.4591431999999998,126.65622927105376
+1263,Costa Rica,Heredia,10.376781300000001,-84.01397213865732
+1264,Spain,Salamat,10.7575596,20.6934116
+1265,Mexico,Arica y Parinacota,-18.5713496,-69.7884774
+1266,Slovenia,Ravne na Koroškem,,
+1267,France,Diyālá,33.8459221,-117.8430612
+1268,Mexico,Lumbini Province,28.0995507,82.52192934747691
+1269,Argentina,Jujuy,-23.3161458,-65.7595288
+1270,Canada,Olancho,14.821102799999998,-85.9549881416508
+1271,Mexico,Tlaxcala,19.416667,-98.166667
+1272,Indonesia,North Kalimantan,3.0235817,116.2049306
+1273,Austria,Kankan,10.6248355,-9.3175166
+1274,Egypt,Ismailia,30.3671977,32.1565462
+1275,Puerto Rico,Fajardo,18.3278026,-65.65618322074886
+1276,North Macedonia,Ohrid,41.1170203,20.8017387
+1277,United States,North Chungcheong,36.6357,127.4915
+1278,China,Yunnan,25.0,102.0
+1279,Trinidad and Tobago,San Juan/Laventille,10.675606649999999,-61.47101539649948
+1280,United States,New Valley,39.6556643,-76.137174
+1281,Malta,Marsaxlokk,35.8417662,14.5448353
+1282,Colombia,Boyacá,47.9551899,-2.385077
+1283,United Kingdom,Central Abaco,26.52551055,-77.28381175814397
+1284,Cuba,Matanzas,23.0469365,-81.5785643
+1285,"Tanzania, United Republic of",Arusha,-3.52386665,36.8004200748534
+1286,Ukraine,Chernihiv,51.272593,31.7417235
+1287,Thailand,Loei,17.3158563,101.4638277
+1288,Pakistan,Azad Kashmir,33.84412,73.796642
+1289,Chile,Region of Magallanes,14.54194275,121.01934402399544
+1290,Cameroon,South-West,2.744714,43.93193061945837
+1291,Germany,Hanover,52.3744779,9.7385532
+1292,Pakistan,N’Djaména,,
+1293,Puerto Rico,Quebradillas,18.473687,-66.938211
+1294,North Macedonia,Kochani,41.9211332,22.4114182
+1295,Mexico,San Luis Potosí,47.1224313,4.5287856
+1296,Nigeria,Osun,7.5484047,4.4978307
+1297,Russian Federation,Khánh Hòa,,
+1298,Colombia,Cundinamarca,5.1096596,-74.0995854
+1299,Russian Federation,Leningradskaya Oblast',48.7314781,40.3596863
+1300,United States,Sud,2.7497556,11.4860732
+1301,Bulgaria,Pernik,42.628442,22.882311866811484
+1302,France,Slovenj Gradec,46.509144,15.0790677
+1303,Bulgaria,Smolyan,41.623563000000004,24.591386905325443
+1304,Ukraine,Kiev,50.4500336,30.5241361
+1305,Chile,Ñuble,42.7439343,16.825684
+1306,Kenya,Uasin Gishu,0.4771938,35.30505973699228
+1307,Algeria,Skikda,36.75451150000001,6.885625492591183
+1308,Japan,Lənkəran,,
+1309,United States,Bamyan,34.75,67.25
+1310,Uzbekistan,Samarqand,39.6550017,66.9756954
+1311,Zambia,Copperbelt,-13.0214171,27.8876177
+1312,Côte d'Ivoire,Abidjan,5.320357,-4.016107
+1313,Iraq,Bābil,48.6578667,8.1666839
+1314,United Kingdom,East Berbice-Corentyne,3.8969445,-58.141151871769
+1315,India,Dadra and Nagar Haveli and Daman and Diu,20.718174949999998,70.93238341010638
+1316,Romania,Brăila,50.8041999,113.5801786
+1317,Thailand,Attapu,14.79073,107.10083175209198
+1318,Tunisia,Ariana,36.968573500000005,10.121985506329507
+1319,United States,Ghazni,33.3149631,67.828989
+1320,Uruguay,Cerro Largo,-28.147498,-54.7383681
+1321,Liechtenstein,Vaduz,47.1392862,9.5227962
+1322,Nigeria,Edo,6.6076575,5.9722713
+1323,United States,Saint Catherine,18.047173700000002,-77.03338518903325
+1324,Kazakhstan,North Kazakhstan,52.2983443,76.945378
+1325,Denmark,Avannaata,74.96134359999999,-51.85824937385934
+1326,Ecuador,Manabí,13.859809,44.214934
+1327,North Macedonia,Kumanovo,42.1359459,21.7177635
+1328,Turkey,Bolu,40.6212099,31.6460259
+1329,Hungary,Bács-Kiskun,,
+1330,Afghanistan,Kabul,34.5260109,69.1776838
+1331,Malaysia,An Najaf,32.0010227,44.3299926
+1332,Algeria,Jijel,36.72921875,5.960777606253644
+1333,Mauritius,Plaines Wilhems,-20.29976155,57.49486687145259
+1334,"Venezuela, Bolivarian Republic of",Aragua,10.0,-67.166667
+1335,Viet Nam,Vĩnh Long,20.9509014,107.0792384
+1336,Romania,Alba,56.7861112,-4.1140518
+1337,Oman,Az̧ Z̧āhirah,14.3855729,43.8260569
+1338,Mauritius,Port Louis,-20.1624522,57.5028044
+1339,Pakistan,Gilgit-Baltistan,35.9999972,75.0000023
+1340,Iraq,Perlis,6.4868392,100.2577623
+1341,India,Lakshadweep,10.8132489,73.6804620941119
+1342,"Venezuela, Bolivarian Republic of",Mérida,36.2673551,2.7532454
+1343,Chile,Tarapacá,,
+1344,Canada,Mogilev,53.9090245,30.3429838
+1345,Andorra,Andorra la Vella,42.5069391,1.5212467
+1346,"Moldova, Republic of",Ungheni,46.4834798,24.4574193
+1347,United States,St Ann,38.72814435,-90.38790815533517
+1348,Peru,Cajamarca,-6.25,-78.833333
+1349,Israel,Hormozgan,27.7198095,56.335807
+1350,Viet Nam,Thừa Thiên-Huế,,
+1351,Egypt,Qalyubia,30.33362925,31.22135686416373
+1352,Thailand,Buriram,14.9955693,103.1079187
+1353,Mexico,Tinian,35.8400206,-107.326157
+1354,Estonia,Pärnumaa,,
+1355,Nigeria,Kwara,8.8367891,4.6688487
+1356,Brazil,Tambacounda,13.8301533,-13.0891759
+1357,Slovenia,Novo Mesto,45.8040475,15.1696684
+1358,"Tanzania, United Republic of",Zanzibar Urban/West,-6.1653854,39.2386951
+1359,Malaysia,Kelantan,5.4021302,102.0635972
+1360,Eswatini,Manzini,-26.4958706,31.3695887
+1361,United States,San Lorenzo,42.3832108,9.287966
+1362,France,Andrijevica,42.7339909,19.7915337
+1363,Turkmenistan,Ashgabat,37.9404648,58.3823487
+1364,Mali,Tombouctou,16.7719091,-3.0087272
+1365,United States,Kasai-Central,-5.9046896,21.4334417
+1366,"Korea, Democratic People's Republic of",Pyongyang,39.0167979,125.7473609
+1367,Peru,Ancash,-9.5,-77.75
+1368,United States,Barima-Waini,7.7461459999999995,-59.712218560970065
+1369,United Kingdom,Trelawny,18.368064500000003,-77.60440861043406
+1370,Russian Federation,Ar-Raqqah,35.949678,39.0089212
+1371,Romania,Hunedoara,45.7958547,22.944483784106403
+1372,Madagascar,Anseba,16.5000101,37.5000048
+1373,Bangladesh,Barisāl,51.931861,4.485135
+1374,Rwanda,Kigali,-1.950851,30.061507
+1375,"Congo, The Democratic Republic of the",Kajiado,-2.12171705,36.78625503675998
+1376,Latvia,Valmiera,57.5389148,25.4261688
+1377,Bulgaria,Gabrovo,42.9638895,25.211953846464205
+1378,United States,Khowst,33.4014634,69.8912294
+1379,France,Chuuk,7.4393793,151.8515538
+1380,Argentina,'Asir Region,19.166667,43.166667
+1381,Lesotho,Maseru,-29.310054,27.478222
+1382,Viet Nam,Nugaal,8.1666667,49.0
+1383,Mozambique,Sofala,-19.0771666,34.7164804
+1384,Peru,Piura,-5.0,-80.333333
+1385,Turkey,Kayseri,38.6582232,35.5546374
+1386,Colombia,Risaralda,5.2102948,-75.9842236
+1387,United States,Hidalgo,20.5,-99.0
+1388,Russian Federation,Astrakhan,46.3498308,48.0326203
+1389,United States,Jeollabuk-do,35.8198999,127.109
+1390,Bangladesh,Mymensingh Division,24.8386014,90.41126950462677
+1391,Romania,Gorj,44.961167450000005,23.325679902293135
+1392,France,Pahang,3.6168822,102.5994547
+1393,United States,Masvingo,-20.307118600000003,30.88137696875768
+1394,Kuwait,Hawalli,29.32287695,48.11628897398228
+1395,Lebanon,Mont-Liban,45.7636532,4.832709
+1396,Portugal,Évora,63.1304959,22.250699
+1397,Indonesia,Saga,33.2185408,130.1296585
+1398,North Macedonia,Radovish,41.639832,22.4645893
+1399,Brazil,Pohnpei,6.88704675,158.24061376394383
+1400,Uzbekistan,Xorazm,41.2902835,60.5428537
+1401,Maldives,Seenu,-0.58900135,73.22728070078094
+1402,Ukraine,Luhansk,49.2724587,38.9150477
+1403,South Africa,Uva,52.3685848,4.8902006
+1404,Guam,Ulsan,35.5391697,129.3119136
+1405,Sri Lanka,North Western,7.9745867,79.97200526412345
+1406,Romania,Caraş-Severin,45.404708,22.546903623080034
+1407,United States,Oromiya,7.6721644,40.0299727
+1408,Japan,Niigata,37.6452283,138.7669125
+1409,Portugal,Bragança,54.3573332,-7.0754975
+1410,Viet Nam,Bà Rịa-Vũng Tàu,,
+1411,United States,The Valley,51.48645995,0.03646254627465953
+1412,Russian Federation,Yamalo-Nenets,67.1471631,74.3415488
+1413,Italy,Ituri,2.1015973,29.055973761025278
+1414,Yemen,Aden,12.833333,44.916667
+1415,United States,Koulikoro,13.48200225,-7.616857001709825
+1416,Hong Kong,Eastern,1.1787184,38.6025801
+1417,Belgium,West Macedonia,5.7299805,-0.3124036
+1418,Canada,Ŏtâr Méanchey,,
+1419,Tunisia,Kairouan,35.6710101,10.10062
+1420,Nigeria,Cross River,5.8671966,8.5204774
+1421,Montenegro,Budva,42.2885656,18.8419505
+1422,Iraq,Arbīl,-6.8060196,-79.88240945056586
+1423,United States,Mondolkiri,,
+1424,India,Demir Hisar,41.2352242,23.3894663
+1425,Slovenia,Koper-Capodistria,45.5479864,13.7304781
+1426,United States,South Sumatra,-3.1266842,104.0930554
+1427,Russian Federation,Chechnya,43.3976147,45.6985005
+1428,Libya,Banghāzī,,
+1429,Turkey,Isparta,37.9465412,30.9602093
+1430,Portugal,Guarda,40.70458035,-7.195120796863068
+1431,Indonesia,Riau,0.5004112,101.5475811
+1432,French Polynesia,Îles Tuamotu-Gambier,-18.774818500000002,-138.82313276302597
+1433,Russian Federation,Dagestan,43.0883099,47.14988017944228
+1434,Romania,Sălaj,22.297933200000003,103.7559824312469
+1435,Nigeria,Plateau,9.0583446,9.6826289
+1436,United States,Oran,35.7032751,-0.6492976
+1437,Malaysia,Mubārak al Kabīr,,
+1438,Finland,Odranci,46.5867444,16.2762663
+1439,Romania,Călăraşi,47.5618167,-0.3084328
+1440,"Venezuela, Bolivarian Republic of",Monagas,9.34473745,-63.15756329806089
+1441,Australia,Port Glaud,-4.66406,55.4177606
+1442,Botswana,South-East,18.2973566,-72.3745698
+1443,Finland,Kainuu,64.59871765,28.30020630569677
+1444,United States,Capellen,49.645432,5.977324703945579
+1445,Cabo Verde,São Vicente,9.8986137,-83.9730992
+1446,"Korea, Republic of",Gwangju,35.1595775,126.8515089
+1447,Congo,Brazzaville,-4.2694407,15.2712256
+1448,Azerbaijan,Sumqayit,40.5961666,49.6695971
+1449,India,Kouilou,-4.32821095,11.91668049902383
+1450,Indonesia,Al Hudaydah,14.7978677,42.9544872
+1451,Sudan,Upper Nile,9.0,33.0
+1452,Tajikistan,Dushanbe,38.5425835,68.81521423589763
+1453,Norway,Oppland,64.337567,10.8646997
+1454,Slovenia,Ilirska Bistrica,45.5636618,14.2453318
+1455,Japan,Shiga,35.204803,136.2641175
+1456,North Macedonia,Gostivar,41.7920222,20.9081703
+1457,Nicaragua,Granada,37.1734995,-3.5995337
+1458,Egypt,Debub Gonder,,
+1459,Portugal,Vila Real,39.9372616,-0.1004465
+1460,Nicaragua,León,43.6750153,4.1326684
+1461,Kenya,Kiambu,-1.03207695,36.815686702129064
+1462,Japan,Mie,34.7339685,136.5154489
+1463,Turkey,Rize,41.0248249,40.5199142
+1464,Russian Federation,Transbaikal Territory,,
+1465,Algeria,Batna,35.3384291,5.731545299000572
+1466,Switzerland,Obwalden,46.8613857,8.2067825
+1467,Thailand,Pathum Thani,14.048667,100.5640405
+1468,Liechtenstein,Mauren,47.2196512,9.5418065
+1469,Egypt,Suez,29.974498,32.537086
+1470,Russian Federation,Novgorod Oblast,58.2843833,32.5169757
+1471,Malta,In-Naxxar,35.9133396,14.4432851
+1472,Thailand,Kamphaeng Phet,16.4183581,99.6111616
+1473,Tajikistan,Sughd,39.3548602,68.8268012
+1474,Colombia,Departamento de Arauca,7.0836799,-70.74643257298416
+1475,Mexico,Morelos,18.75,-99.0
+1476,Peru,Ica,-14.338611,-75.648333
+1477,Russian Federation,Amur Oblast,52.8032368,128.437295
+1478,"Taiwan, Province of China",Upper East,49.0006634,8.420777251205465
+1479,Georgia,Kvemo Kartli,41.5113299,44.58861652920161
+1480,Tunisia,Gafsa,34.43367,8.79079875204918
+1481,Brazil,Atacama,-27.5571783,-70.0156882
+1482,Lithuania,Utena,55.4984381,25.6025772
+1483,Croatia,Varaždinska,,
+1484,Russian Federation,Kurgan Oblast,55.51707765,65.45906580229595
+1485,Indonesia,Lampung,-4.8555039,105.0272986
+1486,Bhutan,Thimphu,27.4713546,89.6336729
+1487,Indonesia,South Kalimantan,-2.9285686,115.3700718
+1488,Kenya,Nakuru,-0.29811225,36.152748596020565
+1489,Nigeria,Ogun,6.9788582,3.4389293
+1490,Latvia,Rēzekne,,
+1491,United States,North Khorasan,37.5378855,56.9526137
+1492,Turkey,Kütahya,38.182911,39.885269
+1493,Panama,Bocas del Toro,9.3040623,-82.12848154978464
+1494,Slovenia,Rogaška Slatina,,
+1495,Uganda,Eastern Region,23.3036077,50.1258804
+1496,United States,Koror,7.343275,134.4766767
+1497,Dominican Republic,Samaná,43.2352,0.72082
+1498,Argentina,San Luis,-33.2762202,-65.9515546
+1499,France,Micoud,13.8267684,-60.9428045669503
+1500,India,Sikkim,27.601029,88.45413638680145
+1501,France,Djibouti,11.8145966,42.8453061
+1502,France,Louga,15.2401304,-15.3441834
+1503,Japan,Wakayama,34.234617,135.1782181
+1504,Turkmenistan,Mary,37.1302916,62.4019513
+1505,United States,Chukotka,66.0006475,169.4900869
+1506,Turkey,Hatay,36.2024887,36.1602761
+1507,Hungary,Szabolcs-Szatmár-Bereg,,
+1508,Nigeria,Kaduna,10.3825318,7.8533226
+1509,United Kingdom,Musandam,25.999736,56.2498627
+1510,Egypt,Sohag,26.547748,31.699263
+1511,United States,Aguadilla,18.449655149999998,-67.11847643508234
+1512,Peru,Lambayeque,-6.333333,-80.0
+1513,Lao People's Democratic Republic,Louangphabang,20.2115415,102.612684
+1514,Algeria,Tizi Ouzou,36.69979055,4.05510533326087
+1515,Chile,La Unión,14.8929104,-87.5873131
+1516,United States,Sud-Ubangi,3.2559459,19.7483787
+1517,United States,Meru,-3.3253383000000003,36.90436132877197
+1518,Indonesia,Aceh,4.3685491,97.0253024
+1519,Kenya,Nandi,0.22539325,35.124492921854724
+1520,Slovenia,Brežice,51.1447897,5.5984641
+1521,Chile,Sveti Jurij v Slovenskih Goricah,46.6133355,15.79741405671801
+1522,Iraq,Sulaymaniyah,35.5570501,45.4425963
+1523,Guatemala,Suchitepeque,,
+1524,Sweden,Svalbard,78.7198519,20.3493328
+1525,France,Kumamoto,32.6450475,130.6341345
+1526,Mexico,Campeche,19.330194,-89.94351380117641
+1527,United States,Kano,11.8948389,8.5364136
+1528,Romania,Botoşani,,
+1529,Malta,L-Imsida,35.8956943,14.4891829
+1530,Finland,Kanta-Häme,,
+1531,Hong Kong,Tsuen Wan,22.3716605,114.1134699
+1532,Indonesia,Central Kalimantan,-1.499583,113.2903307
+1533,Canada,Atlántida,,
+1534,Peru,Ayacucho,-14.0,-74.0
+1535,Lebanon,Al Batinah North,23.77,57.25
+1536,Turkey,Kırıkkale,,
+1537,Italy,Southeast Sulawesi,-3.5491199,121.7279646
+1538,Algeria,Sidi Bel Abbès,,
+1539,Romania,Teleorman,44.06812915,25.186531663225598
+1540,Turkey,Giresun,40.9174453,38.3847864
+1541,Uruguay,Paysandú,,
+1542,Morocco,Drâa-Tafilalet,,
+1543,France,Western Equatoria,5.5381215,29.149511751206177
+1544,Kazakhstan,Qostanay,53.2146604,63.632607
+1545,Puerto Rico,Aguada,6.162366,-73.5215686
+1546,Peru,Moquegua,-16.833333,-70.916667
+1547,Thailand,Ratchaburi,13.6317897,99.3558216
+1548,Algeria,Blida,36.4701645,2.8287985
+1549,Slovenia,Velenje,46.3592869,15.1150301
+1550,Serbia,Gjilan,42.463515,21.4693599
+1551,United States,Syunik,39.3281408,46.1530296
+1552,Thailand,Nakhon Pathom,13.8918425,100.0165659
+1553,Turkey,Uşak,64.8158905,-147.8458387
+1554,United States,Grand Kru,6.2349331,-10.3107511
+1555,"Moldova, Republic of",Bălţi,46.9518625,7.7794789
+1556,Malawi,Southern Region,-15.30637685,35.32814794075438
+1557,Croatia,Slavonski Brod-Posavina,45.1665803,18.0121385
+1558,Mexico,Hormigueros,18.132468850000002,-67.11391881560841
+1559,Brazil,Acre,32.9281731,35.0756378
+1560,Georgia,Abkhazia,43.1500226,41.2299786
+1561,United States,Flacq,-20.221731249999998,57.72234951618523
+1562,Iraq,Salah ad Din,34.376222,43.6446504
+1563,Sri Lanka,North Central,8.28269675,80.48487080048955
+1564,Kazakhstan,Abşeron,36.995453999999995,49.91507367317472
+1565,United States,Saipan,15.1909825,145.746743003024
+1566,San Marino,San Marino,43.9458623,12.458306
+1567,United States,Melaky,-17.75414815,44.979005166593346
+1568,Philippines,Caraga,9.2471392,125.85395915843998
+1569,Thailand,Trang,7.5892935,99.5032004
+1570,Nigeria,Enugu,6.5536094,7.4143061
+1571,Turkey,Karabük,52.3941667,173.6083333
+1572,Egypt,Port Said,31.263235,32.305505
+1573,Algeria,El Oued,33.215441,7.155321399098325
+1574,Belarus,Minsk,53.9024716,27.5618225
+1575,United Kingdom,Quảng Nam,29.4239516,90.912911
+1576,India,Paro,27.486577099999998,89.37286905574244
+1577,Argentina,Duarte,19.243456,-70.087743
+1578,Dominican Republic,San Pedro de Macorís,,
+1579,Turkey,Afyonkarahisar,38.6852729,30.6427411
+1580,United States,Guadalcanal,-9.59842095,160.1485117018448
+1581,Thailand,Suphanburi,14.6777,100.0350785
+1582,United States,Anse-la-Raye,13.9146642,-61.00774715497347
+1583,Russian Federation,Khakasiya Republic,53.7186216,91.4618681
+1584,Peru,Tacna,-18.0138521,-70.2511614
+1585,Uzbekistan,Fergana,40.3983651,71.78755737387597
+1586,United States,Quảng Trị,,
+1587,Russian Federation,Adygeya Republic,45.0247666,38.9331639
+1588,"Iran, Islamic Republic of",Ardabīl,35.27,59.4361111
+1589,United States,Huambo,-12.6076318,15.7411039
+1590,Philippines,Mimaropa,13.0152201,121.40641830505142
+1591,Turkey,Niğde,27.9408605,102.5269802
+1592,Algeria,Saida,33.5618345,35.3780338
+1593,Saudi Arabia,Al-Qassim Region,26.1942235,43.4565711
+1594,Italy,Tukuma novads,56.97174925,22.99746330752139
+1595,French Guiana,Guyane,4.0039882,-52.999998
+1596,"Iran, Islamic Republic of",South Khorasan Province,33.129577,58.1065069
+1597,Algeria,Ouargla,30.9980145,6.766453639443059
+1598,Ethiopia,Amhara,11.5,38.5
+1599,Czechia,Pastaza,-1.916667,-77.0
+1600,Turkey,Tekirdağ,,
+1601,France,Daykundi,33.725113,66.2196554
+1602,United States,Upper Demerara-Berbice,5.5612677,-58.15415202004436
+1603,Costa Rica,Limón,-11.9827434,-77.0586044
+1604,Colombia,Meta,3.5000086,-73.0000086
+1605,Viet Nam,Haiphong,20.858864,106.6749591
+1606,France,Malanje,-9.535332,16.9364293
+1607,Viet Nam,Ninh Thuận,10.850616,106.7543315
+1608,United States,Central Equatoria,5.0,31.5
+1609,Egypt,Luxor,25.702096,32.647186
+1610,"Tanzania, United Republic of",Katavi,-6.3015493,30.9278274
+1611,Turkey,Nevşehir,,
+1612,Nicaragua,Matagalpa,12.9636338,-85.5006651
+1613,Somalia,Banaadir,2.0812612,45.4607164
+1614,India,Muharraq,26.2465946,50.6164127
+1615,Egypt,Matruh,29.9387816,26.4894728
+1616,Japan,Yamagata,38.2553393,140.3400205
+1617,"Iran, Islamic Republic of",Sistan and Baluchestan,28.1292481,60.8236848
+1618,United Kingdom,Onchan,54.1749257,-4.4554497
+1619,Egypt,Monufia,30.4370098,30.746685163855833
+1620,Colombia,Magdalena,10.5808075,-74.0685669
+1621,Burkina Faso,Hauts-Bassins,11.389027500000001,-4.041364986476256
+1622,United States,Funafuti,-8.5199633,179.1982548
+1623,"Korea, Republic of",Gyeongsangnam-do,35.2382,128.6925
+1624,Australia,St. Mary,45.8332243,0.388517
+1625,United States,Johnston Atoll,16.752446149999997,-169.51070155661202
+1626,"Iran, Islamic Republic of",Lorestan Province,33.5372643,48.2435197
+1627,Croatia,Krapinsko-Zagorska,46.0760988,15.9062305
+1628,Algeria,Medea,35.975204500000004,3.012350405608216
+1629,Chile,Antofagasta,-23.6463741,-70.3980033
+1630,Egypt,Tlemcen,34.881789,-1.316699
+1631,Jordan,Madaba,-9.86521915,35.43216338633224
+1632,Norway,Sogn og Fjordane,61.2071553,6.5981695
+1633,France,Hamgyŏng-namdo,,
+1634,Comoros,Grande Comore,-11.652670350000001,43.33078712107961
+1635,Japan,Kagoshima,31.5841689,130.543387
+1636,Algeria,Béjaïa,63.0742119,21.7205
+1637,China,Al Anbar,32.7889443,41.6093983
+1638,Romania,Maradi,13.501206,7.102534
+1639,Myanmar,Mandalay,21.9812746,96.082375
+1640,Afghanistan,Nangarhar,34.220389,70.3800314
+1641,Ghana,Volta,7.1439019,0.1747254
+1642,"Venezuela, Bolivarian Republic of",Yaracuy,10.333333,-68.75
+1643,Honduras,Bay Islands,10.695556,119.301389
+1644,Algeria,Laghouat,33.750440499999996,2.6431093610595155
+1645,United Kingdom,Saint Michael,13.1182985,-59.60157828479271
+1646,Isle of Man,Castletown,58.5933418,-3.3853597
+1647,Slovakia,Oruro,-18.666667,-67.666667
+1648,Serbia,Pec,46.0765883,18.2280397
+1649,Turkey,Aydın,25.2711021,51.4109595
+1650,Nepal,Sudurpashchim Pradesh,29.3073674,80.91030956538445
+1651,Thailand,Lampang,18.6799728,99.7332501
+1652,Cambodia,Stung Treng,13.852468,106.0889848986395
+1653,"Korea, Republic of",Gyeongsangbuk-do,36.5754,128.5058
+1654,Zimbabwe,Bulawayo,-20.1560599,28.5887063
+1655,Turkey,Kırklareli,,
+1656,Malta,Is-Swieqi,35.9236256,14.469548
+1657,Japan,Tottori,35.3555075,133.8678525
+1658,Afghanistan,Kunduz,36.7175566,68.8672916
+1659,Turkey,Tokat,40.38658275,36.65637853989776
+1660,Dominican Republic,María Trinidad Sánchez,,
+1661,China,Inner Mongolia,43.2443242,114.3251664
+1662,Puerto Rico,Isabela,17.0,122.0
+1663,Spain,Far North,10.6377186,14.2738156
+1664,France,Barahona,18.1714805,-71.20953
+1665,Belgium,Kukës,-5.7837111,144.331722
+1666,Montenegro,Bijelo Polje,43.0341595,19.7473559
+1667,Ethiopia,Tigray,13.881273,39.127495
+1668,United States,Ta‘izz,13.4115414,43.5570871
+1669,Slovenia,Beltinci,46.6046999,16.2383649
+1670,United Kingdom,Clarendon,34.9359346,-100.8905829
+1671,France,Southern Kordofan,,
+1672,Turkey,Edirne,41.6759327,26.5587225
+1673,Thailand,Chiang Rai,19.7589517,99.6734592
+1674,"Iran, Islamic Republic of",Semnan,35.3843145,54.6209302
+1675,United States,Hovd,48.0552065,91.26731219782693
+1676,Kazakhstan,East Kazakhstan,48.6130209,81.7489928
+1677,Iraq,Duhok,37.042257,43.0953954
+1678,Dominican Republic,Valverde,19.5820464,-71.0461119
+1679,United Kingdom,Ascension,-7.94110725,-14.363118886394432
+1680,Slovenia,Ajdovščina,,
+1681,United States,Logar,34.0653595,69.160172
+1682,United States,Herat,34.3508273,62.2164003
+1683,Japan,Aomori,40.886943,140.590121
+1684,Bulgaria,Vratsa,43.398819,23.715723218470906
+1685,Armenia,Shirak,40.918594,43.8403536
+1686,Eritrea,Taraba,8.0141334,10.7376336
+1687,Montenegro,Berane,42.846826,19.8740451
+1688,Philippines,National Capital,53.8101018,-1.7566522
+1689,Ecuador,Esmeraldas,-19.7613111,-44.3145945
+1690,Lithuania,Alytus,54.3961344,24.0459268
+1691,Nigeria,Niger,17.7356214,9.3238432
+1692,Indonesia,North Sulawesi,0.6555692,124.090151
+1693,Slovenia,Piran-Pirano,45.5289394,13.5675658
+1694,"Tanzania, United Republic of",Kilimanjaro,-3.0764084,37.3539987
+1695,United States,Southern Highlands,-6.4471522,143.6006612
+1696,Philippines,Estado La Guaira,9.1793168,-71.1599922
+1697,Guatemala,Jutiapa,14.14768595,-89.88725080941776
+1698,Puerto Rico,Santa Isabel,-23.3194222,-46.2271903
+1699,,Erongo,-22.0278147,15.389358
+1700,"Venezuela, Bolivarian Republic of",Grenadines,12.5973427,-61.43348525578055
+1701,United States,Belait,4.4430295,114.4879905727937
+1702,Myanmar,Tanintharyi,13.0143442,98.7441719
+1703,Egypt,Asyut,27.1832822,31.1853836
+1704,Kenya,Coast Province,52.2324226,20.9848945
+1705,Turkey,Erzurum,39.9063215,41.2727638
+1706,"Bolivia, Plurinational State of",Potosí,-1.6227759,13.6038229
+1707,Nigeria,Imo,5.5859456,7.0669651
+1708,Brazil,Turkana,3.52559005,36.074506156741236
+1709,Switzerland,Jura,46.783362499999996,5.783285726354901
+1710,Russian Federation,Buryatiya Republic,52.7182426,109.492143
+1711,Hungary,Zala,46.6713343,16.8894692
+1712,French Polynesia,Leeward Islands,17.65,-63.235
+1713,Mexico,Karnali Pradesh,29.308073,82.47212089212425
+1714,Croatia,Sisačko-Moslavačka,,
+1715,Ireland,Anzoátegui,,
+1716,Montenegro,Kotor,42.4248515,18.7710437
+1717,United States,Humacao,18.1491849,-65.8250136
+1718,Turkey,Yalova,40.59270745,29.077136065391837
+1719,United States,Tristan da Cunha,-38.9031888,-11.175001
+1720,United States,West Papua,-1.3842356,132.902528
+1721,Viet Nam,Culebra,18.3030519,-65.3000989
+1722,United States,Ramsey,45.0165728,-93.0949501
+1723,France,Port Erin,54.086017,-4.7568003
+1724,Kenya,Marsabit,2.85795825,37.715489185900395
+1725,Saudi Arabia,Jazan Region,17.333333,42.666667
+1726,Cabo Verde,Praia,14.9162811,-23.5095095
+1727,Viet Nam,Phú Thọ,18.7101912,99.041803
+1728,Paraguay,Ñeembucú,,
+1729,Slovenia,Šoštanj,,
+1730,Colombia,Chocó,14.0302613,-60.9782218
+1731,Malta,Tal-Pietà,32.8045762,35.1365089
+1732,Burundi,Bujumbura Mairie,-3.3493959,29.3631843
+1733,Spain,Al Jawf Region,29.7673818,39.5629883
+1734,Egypt,Aswan,24.091071,32.897306
+1735,Luxembourg,Clervaux,50.0547912,6.0275511
+1736,Mauritius,Rivière du Rempart,,
+1737,Kuwait,Al Aḩmadī,15.909965,43.501176
+1738,Hungary,Somogy,46.439656,17.6212956
+1739,Hungary,Jász-Nagykun-Szolnok,,
+1740,"Congo, The Democratic Republic of the",Nord Kivu,-0.5558097,28.789783736540805
+1741,Romania,Vrancea,45.78870885,26.883802968755305
+1742,Morocco,Souss-Massa-Drâa,,
+1743,Algeria,Mostaganem,36.0026915,0.3686866818796205
+1744,Saudi Arabia,Al Bahah Region,20.2372671,41.4615479
+1745,Kenya,Kisumu,-0.1029109,34.7541761
+1746,"Tanzania, United Republic of",Morogoro,-7.0536105,38.0796597056401
+1747,Switzerland,Uttaradit,17.625163,100.4029452
+1748,Egypt,Beheira,30.7915206,30.346548847969675
+1749,Nigeria,Ekiti,7.736891,5.2738326
+1750,Niger,Niamey,13.524834,2.109823
+1751,Iraq,Basra,30.4952371,47.8090981
+1752,Cuba,Santiago de Cuba,20.0214637,-75.8294928
+1753,Burkina Faso,Centre-Est,11.734933000000002,-0.2921055677472593
+1754,El Salvador,Sonsonate,13.722415250000001,-89.72295808761227
+1755,Australia,Riau Islands,-0.1547846,104.5803745
+1756,United States,St. Thomas,49.4972,3.82019
+1757,Finland,Debub,14.9099667,38.8150692
+1758,Uzbekistan,Andijon,40.7833471,72.3506746
+1759,Bosnia and Herzegovina,Brčko,25.065405,121.6110867
+1760,Slovenia,Logatec,45.9178067,14.2233802
+1761,United States,Saint Joseph,49.5344534,-1.529802
+1762,United States,Saint George,12.0535331,-61.751805
+1763,North Macedonia,Veles,41.718869,21.7705695
+1764,United Kingdom,Kwun Tong,22.312937,114.22561
+1765,Kenya,Kisii,-0.73894255,34.75398551201732
+1766,Tunisia,Qābis,47.5746224,13.7543846
+1767,Brazil,Hagatna,13.4727446,144.75201822544284
+1768,Cambodia,Takeo,10.93539205,104.78988300047047
+1769,United States,Ammochostos,35.1245436,33.9325419
+1770,United States,Sinoe,5.01111,-9.03889
+1771,Viet Nam,Bắc Ninh,41.18665005,122.03800783142378
+1772,Montenegro,Opština Nikšić,,
+1773,Guatemala,Sacatepéquez,,
+1774,Philippines,Ilocos,17.2046698,120.4703870788443
+1775,Viet Nam,Ninh Bình,18.6910746,105.6659448
+1776,Austria,Yuen Long,22.4445211,114.0259924
+1777,Nigeria,Abia,5.4540953,7.5153071
+1778,United Kingdom,Pomeroon-Supenaam,7.2049548,-58.82956406274447
+1779,Zimbabwe,Manicaland,-19.0188422,32.368889
+1780,United States,Chüy,42.10271755,14.415935252272542
+1781,United Kingdom,Āfar,37.0537571,-7.931936616991477
+1782,Finland,Parwan,34.9797014,68.9146703
+1783,Algeria,Ghardaia,32.485855,3.677104
+1784,Colombia,Tolima,3.7500086,-75.2500086
+1785,Kenya,Kakamega,0.4957104,34.801548861634615
+1786,Viet Nam,Nghệ An,19.3738868,104.9233469
+1787,India,Arunachal Pradesh,28.0937702,94.5921326
+1788,Spain,Ceuta,35.89442195,-5.355817352394269
+1789,United States,North Sinai,30.50428025,33.59100602395213
+1790,"Congo, The Democratic Republic of the",Haut-Katanga,-11.6047402,27.4131897
+1791,India,Tripura,23.7750823,91.7025091
+1792,Uganda,Western Region,-0.6547242,30.6720957
+1793,Nigeria,Delta,33.3926893,-95.6749486
+1794,Luxembourg,Grevenmacher,49.679313,6.4430979
+1795,Iraq,Kirkuk,35.4703415,44.395723
+1796,Russian Federation,Kabardino-Balkariya Republic,43.45729,43.43583641097248
+1797,Faroe Islands,Streymoy,62.123638799999995,-7.015874297370919
+1798,Nigeria,Jigawa,12.3252362,9.5103296
+1799,Viet Nam,Hưng Yên,,
+1800,France,Benue,7.3505747,8.7772877
+1801,United States,Palmyra Atoll,5.882204,-162.0748745
+1802,"Tanzania, United Republic of",Kigoma,-4.5126571,30.0050533
+1803,"Korea, Republic of",Chungcheongnam-do,36.6593,126.6729
+1804,Dominican Republic,Santo Domingo,18.4801972,-69.942111
+1805,Turkey,Adıyaman,22.9298373,57.7670846
+1806,Uzbekistan,Toshkent,41.3123363,69.2787079
+1807,"Tanzania, United Republic of",Tanga,-19.9160819,-175.202642
+1808,United States,El Bayadh,32.570302999999996,1.1259581442818078
+1809,Tunisia,Bin ‘Arūs,-34.8920606,138.5728742
+1810,Italy,Sangha-Mbaéré,,
+1811,Macao,Yau Tsim Mong,22.3073175,114.1654807776656
+1812,Libya,Al Wāḩāt,43.2286502,27.9394373
+1813,Viet Nam,Hà Tĩnh,52.2428824,4.8215092
+1814,Ecuador,Santa Elena,-15.96545515,-5.702575637953244
+1815,France,Shan,35.646192049999996,109.56107370545054
+1816,Lao People's Democratic Republic,Vientiane,17.9640988,102.6133707
+1817,Poland,Vardak,34.3191345,68.3360426
+1818,Viet Nam,Đồng Nai,29.6715686,91.0559046
+1819,Turkey,Şanlıurfa,36.8542531,43.0364767
+1820,Kenya,Kwale,-4.1836067,39.105094975232994
+1821,United States,Presidente Hayes,-23.7242273,-58.97597319180011
+1822,"Venezuela, Bolivarian Republic of",Ombella-M'Poko,5.0726761,18.1717789
+1823,Philippines,Autonomous Region in Muslim Mindanao,5.8506231,120.0284034624274
+1824,Viet Nam,Cao Bằng,10.3708931,107.06195033367348
+1825,United States,Căuşeni,,
+1826,Japan,Shimane,35.7819102,139.79728592061247
+1827,Mozambique,Zambézia,50.4589561,4.8723252
+1828,United States,Castries,43.6779101,3.9868904
+1829,India,Cuanza Norte,-9.0296752,15.0926324
+1830,Algeria,Boumerdes,36.7358032,3.6163045700585252
+1831,"Tanzania, United Republic of",Mbeya,-8.974014350000001,33.391583435412215
+1832,Tunisia,Banzart,31.2622871,32.2920443
+1833,France,West New Britain,-5.8891465,149.699546
+1834,Serbia,Haskovo,41.763101000000006,25.92562551247896
+1835,United States,Badghis,35.0,63.75
+1836,Mongolia,Darhan Uul,49.3767291,106.2901384
+1837,France,Franche-Comté,,
+1838,Romania,Ilfov,44.5017074,26.244907651159284
+1839,Guatemala,Sololá,-0.9056139,130.8595519
+1840,United Kingdom,Ibb,14.1419291,44.1389849
+1841,Brazil,Milne Bay,-10.0226491,151.5800288
+1842,United States,Trat,12.2593544,102.4268871
+1843,Malta,Is-Siġġiewi,,
+1844,Ethiopia,Dire Dawa,9.62741605,41.876658878095235
+1845,United States,Saint Paul’s Bay,35.9480742,14.3973929
+1846,France,Sal,16.720455649999998,-22.938676127026316
+1847,Italy,Phra Nakhon Si Ayutthaya,14.3189468,100.5111681
+1848,"Virgin Islands, U.S.",Saint John Island,52.60339435,1.734696731424191
+1849,Morocco,Laâyoune-Sakia El Hamra,,
+1850,United States,Kagera,-1.5825315,31.4798031
+1851,Malta,Ta’ Xbiex,35.8991087,14.4948986
+1852,Russian Federation,Baikonur,45.6321977,63.3209201
+1853,United States,Brakna,17.2475638,-13.4037714
+1854,Kazakhstan,Aqtöbe,,
+1855,Norway,Troms,69.86993469999999,21.827278548625912
+1856,United States,Yauco,18.0352547,-66.8487055
+1857,Thailand,Lamphun,18.2661422,98.96749
+1858,Algeria,Aïn Defla,,
+1859,Bulgaria,Pazardzhik,42.1487425,24.153175862220515
+1860,Austria,Lori,41.007271,44.4900113
+1861,Mongolia,East Aimak,,
+1862,Kenya,Narok,-1.2779365500000002,35.47742284932569
+1863,Viet Nam,Hà Nam,40.000867,113.2115816186494
+1864,Sudan,Al Jazīrah,,
+1865,Thailand,Rayong,12.7943716,101.3705344
+1866,Thailand,Yasothon,16.0282186,104.2748479
+1867,Mexico,Durango,24.833333,-104.833333
+1868,United States,Guaynabo,18.3581491,-66.1116969
+1869,Slovenia,Vipava,45.8466286,13.961222
+1870,Papua New Guinea,Morobe,-7.0,147.0
+1871,Germany,Hamgyŏng-bukto,,
+1872,Bulgaria,Lovech,43.0444495,24.491024865164775
+1873,Egypt,Minya,28.2125404,30.912374098545786
+1874,Côte d'Ivoire,Gôh-Djiboua,,
+1875,Slovenia,Medvode,46.1402285,14.4130728
+1876,Jordan,Jerash,32.278245299999995,35.889781286549265
+1877,United States,Nord-Ouest,-26.1347819,25.6546729
+1878,Guatemala,Yoro,15.2994474,-87.29169807731974
+1879,Kenya,Bungoma,0.78292445,34.71916810731902
+1880,Bulgaria,Pleven,43.409022,24.6180123
+1881,United States,Imārat Umm al Qaywayn,,
+1882,Nicaragua,Madriz,13.510956,-86.3423061
+1883,Liechtenstein,Balzers,47.0671067,9.5002584
+1884,Algeria,Relizane,35.836318500000004,0.9118537366540664
+1885,Myanmar,Lac,47.2613203,18.020314
+1886,Nigeria,Ondo,7.0209686,5.0567477
+1887,Guam,Tamuning,13.4937451,144.7773816703125
+1888,Morocco,Faiyum,29.340736999999997,30.620104467964623
+1889,Italy,Holguín,,
+1890,Japan,Tochigi,36.3818177,139.733591
+1891,Cambodia,Banteay Meanchey,13.80405175,103.07939100303338
+1892,,M'Sila,35.1300205,4.200310671358427
+1893,Eritrea,Maekel,15.333333,38.916667
+1894,Algeria,Chlef,36.203419999999994,1.2680696005416272
+1895,United States,Dhi Qar,31.2857941,46.3068347
+1896,Viet Nam,Bình Thuận,,
+1897,United States,TT.ETO,-15.7916931,-47.8934639
+1898,Mauritius,Sanaa,15.3538569,44.2058841
+1899,Nigeria,Sokoto,13.0611195,5.3152203
+1900,Tunisia,Al Mahdīyah,,
+1901,Côte d'Ivoire,Montagnes,6.9418251,-7.6541621
+1902,United Kingdom,Akwa Ibom,4.9880607,7.795178277855076
+1903,Guatemala,Huehuetenango,15.6634185,-91.5839796
+1904,Albania,Gjirokastër,,
+1905,Uruguay,Lavalleja,-33.9971964,-54.9992242
+1906,Spain,Nālūt,5.771244899999999,6.837032883673622
+1907,Slovenia,Sežana,-3.2723303,-39.2665895
+1908,France,Roi Et,15.7486448,103.7013017
+1909,Indonesia,Bengkulu,-3.5186763,102.5359834
+1910,"Venezuela, Bolivarian Republic of",Trujillo,39.4605657,-5.8816626
+1911,Latvia,Krāslavas novads,,
+1912,France,Crozet,46.29076755,5.996256348653061
+1913,North Macedonia,Kavadarci,41.4332802,22.0122593
+1914,China,Qinghai,35.40709525,95.95211573241954
+1915,Saudi Arabia,As-Suwayda,32.7093878,36.5687496
+1916,United States,Karachayevo-Cherkesiya Republic,,
+1917,Oman,Al Buraimi,24.1614948,56.14641019717474
+1918,United States,Northern Islands,16.711471500000002,145.7841155918221
+1919,Hungary,Bekes County,54.6856412,25.2980804
+1920,Uzbekistan,Qashqadaryo,39.0855415,66.6876957
+1921,Latvia,Rače-Fram,,
+1922,Zimbabwe,Matabeleland North,-18.9283715,27.4992231
+1923,Malaysia,Ḩajjah,32.3615245,35.1955864
+1924,United States,El Oro,-3.5311093,-79.8333234
+1925,"Venezuela, Bolivarian Republic of",Fakaofo,-9.3743046,-171.2645365
+1926,Japan,Iwate,39.9724169,141.2124422
+1927,"Venezuela, Bolivarian Republic of",Barinas,8.166667,-69.833333
+1928,Morocco,Marrakech-Tensift-Al Haouz,,
+1929,Ethiopia,Somali,8.3676771,49.083416
+1930,Turkey,Kars,40.4558435,42.9979531
+1931,Algeria,Mascara,35.397838500000006,0.24301949927219488
+1932,Italy,Kunar,34.95,71.133333
+1933,Spain,Rennell and Bellona,-12.1134266,160.3170523328619
+1934,United States,Caquetá,46.2070926,5.7421291
+1935,Tunisia,Tataouine,31.7317009,9.770219749624271
+1936,United States,Añasco,65.6887532,-18.0976992
+1937,San Marino,Serravalle,43.9699026,12.4802946
+1938,Turkey,Yozgat,39.8221974,34.8080972
+1939,Gabon,Estuaire,0.2725691,9.941395947166143
+1940,United States,Las Piedras,-34.7274904,-56.2164982
+1941,Mozambique,Tete,-15.5205193,32.7682742
+1942,United States,Latakia,35.5200185,35.7781044
+1943,Switzerland,Cà Mau,44.4302573,0.6549638
+1944,Luxembourg,Vianden,49.9336976,6.2066715
+1945,Myanmar,Ayeyarwady,16.8340079,95.1804705
+1946,Spain,Melilla,35.2918698,-2.9409026
+1947,Slovenia,Metlika,45.6501029,15.3174483
+1948,"Iran, Islamic Republic of",Ilam Province,33.1545696,46.7576343
+1949,"Moldova, Republic of",Nisporeni,47.0748582,28.1778018
+1950,Cuba,Ciego de Ávila,21.826172,-78.6934725
+1951,United States,Savannah,32.0809263,-81.0911768
+1952,Croatia,Vukovar-Sirmium,,
+1953,Guatemala,Alta Verapaz,15.5,-90.333333
+1954,Nicaragua,Chinandega,12.8890816,-86.9577726
+1955,Viet Nam,Bình Dương,52.3473206,4.6872261
+1956,"Venezuela, Bolivarian Republic of",Miranda,10.25,-66.416667
+1957,Malta,In-Nadur,36.0389956,14.2934514
+1958,Slovenia,Ig,45.9592409,14.5276014
+1959,Malta,Qormi,35.877464,14.4739598
+1960,France,Korçë,49.5770159,5.2380876
+1961,France,Jundūbah,33.0043995,72.9683723
+1962,Japan,Yamanashi,35.6928452,138.6871263
+1963,Hungary,L-Imġarr,,
+1964,Yemen,Muhafazat Hadramaout,16.7323022,48.6084967
+1965,Turkey,Siirt,37.9273232,41.9422042
+1966,Thailand,Phetchabun,16.418027,101.1556825
+1967,Turkey,Amasya,40.6503248,35.8329148
+1968,Colombia,Huila,2.4738993,-75.5900113
+1969,United States,South Andros,23.8985,-77.45654039583333
+1970,Latvia,Sigulda,57.1540561,24.8567141
+1971,Italy,Rumonge,-3.87550755,29.470620714130433
+1972,Thailand,Phayao,19.341673,100.1854539
+1973,United States,Đắk Lắk,18.2119464,-78.13361372423672
+1974,Slovenia,Sevnica,46.0057621,15.3150833
+1975,Turkey,Düzce,49.0435685,2.072382560109289
+1976,Romania,Mehedinţi,42.3653289,20.543936
+1977,Tunisia,Sīdī Bū Zayd,14.362875,44.097639
+1978,India,Salinas,36.6744117,-121.6550372
+1979,Paraguay,Caaguazú,,
+1980,Slovenia,Miren-Kostanjevica,45.85981415,13.649854020454544
+1981,Japan,Toyama,36.6957569,137.2136215
+1982,Turkey,Çorum,34.0821048,-79.5681141
+1983,Montenegro,Cetinje,42.389633,18.9246085
+1984,United States,Kangwŏn-do,,
+1985,Slovenia,Kostel,45.5081362,14.9104871
+1986,South Africa,Bas-Uele,2.8034129,24.714735
+1987,Australia,Dhofar,18.2356054,54.266734945996774
+1988,Belgium,Meneng,-0.54522765,166.93977684283234
+1989,India,Otjozondjupa,-19.9424962,18.395886
+1990,Slovenia,Podvelka,46.5889858,15.3280675
+1991,Malta,Il-Ħamrun,,
+1992,United States,San Martín,,
+1993,France,Qusar,41.449868249999994,48.28889275084296
+1994,"Korea, Republic of",Sejong-si,37.56892834999999,126.98920744668928
+1995,Sudan,Northern State,19.0,30.0
+1996,"Tanzania, United Republic of",Manyara,-4.70170335,37.1445389775681
+1997,United States,Vaitupu,-7.4769458,178.6807836433052
+1998,Faroe Islands,Norðoyar,,
+1999,Turkey,San Sebastián,19.0546086,-100.0107273
+2000,Spain,San Marcos,29.8826436,-97.9405828
+2001,Uzbekistan,Navoiy,40.1034582,65.3734221
+2002,Latvia,Ķekava,30.14855,78.33957
+2003,Bulgaria,Vidin,43.8012835,22.679487436277284
+2004,Peru,Apurímac,,
+2005,Croatia,Dol pri Ljubljani,46.0883398,14.6415113
+2006,United States,Daraa,32.6224342,36.1109696
+2007,Myanmar,Bago,18.327818200000003,95.64238092814989
+2008,France,North Maluku,0.6301215,127.9720219
+2009,Kenya,Nyeri,-0.4192962,36.9517005
+2010,Lebanon,Béqaa,34.3408227,36.4800435
+2011,Iceland,East,12.2527495,0.8736106
+2012,Egypt,Judea and Samaria Area,32.38219985,35.30678105913729
+2013,Malta,Iż-Żejtun,,
+2014,Portugal,Portalegre,39.207609700000006,-7.7214964428011115
+2015,India,Kalmykiya Republic,,
+2016,Algeria,Guelma,36.3491635,7.409498952760461
+2017,Viet Nam,Thanh Hóa,40.75577165,-74.00673255644466
+2018,Nigeria,Adamawa,9.5129772,12.3881887
+2019,Algeria,Tissemsilt,35.785897500000004,1.8340956752427218
+2020,Albania,Gjakova,42.3798793,20.4316226
+2021,Mauritius,Black River,44.012571,-75.793991
+2022,Finland,North-Eastern,1.0551081,40.2142534
+2023,Mexico,Petén,7.482079,80.3598348
+2024,Guatemala,Izabal,15.7379098,-88.5888038
+2025,Canada,Tasman,-41.30222105,172.89453190955697
+2026,Slovenia,Pesnica,46.61815925,15.706079770398166
+2027,Algeria,Aïn Témouchent,,
+2028,Viet Nam,Tiền Giang,30.267206899999998,120.17581608267187
+2029,Guatemala,Chiquimula,14.6891037,-89.3959868807435
+2030,United States,Sé,47.802827300000004,13.057954916198952
+2031,North Macedonia,Kichevo,41.5089037,20.9585155
+2032,Bulgaria,Targovishte,43.251196,26.5727944
+2033,Turkey,Erzincan,39.7467552,39.49103
+2034,Turkey,Aksaray,38.4326291,33.8976963
+2035,United States,Murang'A,-0.83091505,37.004861249618145
+2036,United Arab Emirates,Fujairah,25.1244604,56.3355085
+2037,United States,Juncos,18.2280547,-65.9212251
+2038,Brazil,Almaty Oblysy,45.2351691,77.2741871
+2039,El Salvador,Chalatenango,14.0413868,-88.9394082
+2040,Nigeria,Yobe,12.1233242,11.5065937
+2041,Kenya,Rift Valley,50.538602100000006,8.543610614351664
+2042,Viet Nam,Quảng Ngãi Province,23.8183564,115.74833472951121
+2043,"Virgin Islands, U.S.",Saint Thomas,49.4972,3.82019
+2044,Japan,Kagawa,35.3562043,139.3999184
+2045,"Bolivia, Plurinational State of",El Beni,23.1532702,-81.8768515
+2046,"Tanzania, United Republic of",Mara,41.2889762,-1.5180596
+2047,United States,Sancti Spíritus,,
+2048,Thailand,Si Sa Ket,15.116794,104.332348
+2049,Viet Nam,Bến Tre,57.7084626,11.9707892
+2050,Jordan,Karak,31.12570355,35.824704005065236
+2051,United States,Prizren,42.2130151,20.7363339
+2052,Saudi Arabia,Najran Region,18.0,45.666667
+2053,Slovenia,Kranjska Gora,46.485132,13.7843957
+2054,Turkey,Bayburt,40.2023027,40.2121599
+2055,Slovenia,Sentjur,46.2168375,15.3937905
+2056,Morocco,Nenets,68.27557185,57.16863749918604
+2057,France,Lagunes,5.8451583,-4.2931136
+2058,United States,Tana River,-1.53651195,39.55083745466502
+2059,Saudi Arabia,Ha'il Region,27.5208716,41.6985992
+2060,Senegal,Matam,15.0028849,-13.9240088
+2061,United States,Lakes,6.7526715500000005,30.09484286968568
+2062,Azerbaijan,Quba,41.18808935,48.37214515941481
+2063,Thailand,Ranong,10.0469546,98.6870133
+2064,United States,Saint Helena,-15.9694573,-5.7129442
+2065,United States,Centre-Ouest,11.9067933,-2.3044800659164646
+2066,Greenland,Qeqqata,66.5,-48.0
+2067,Iraq,Tahoua,16.1576745,5.328265237903225
+2068,Canada,Rakhine,19.5212991,94.0072428
+2069,United Kingdom,Baghlan,35.75,69.0
+2070,Afghanistan,Farah,32.607111,62.671011
+2071,Malta,Birżebbuġa,,
+2072,Iraq,Halabja Governorate,35.24910255,45.99540933241858
+2073,Spain,San Andres y Providencia,12.8086902,-81.4908431
+2074,United States,Kafr el-Sheikh,31.1089385,30.9426981
+2075,Angola,Namibe,-15.2669341,12.7064561
+2076,Colombia,La Guajira,11.4354118,-72.9002161
+2077,Libya,Mişrātah,,
+2078,Brazil,Coclé,51.0204246,4.1124879
+2079,Iraq,Karbalāʼ,21.9378707,78.82699
+2080,Andorra,La Massana,42.5442014,1.5163754
+2081,Cuba,Las Tunas,21.08870445,-76.81216477200348
+2082,Turkey,Osmaniye,37.0733588,36.2507673
+2083,United States,Akita,39.6898802,140.342608
+2084,Spain,Boaco,12.4768825,-85.4673457
+2085,Peru,Huanuco,-9.5,-75.833333
+2086,Georgia,Imereti,42.18755995,42.952155407513104
+2087,Malta,Il-Fgura,35.8728325,14.520799
+2088,Angola,Cabinda,-5.056395,12.3211749
+2089,Thailand,Phrae,18.2930601,100.0886757
+2090,Madagascar,Dojran,41.2115442,22.746410347325295
+2091,Ethiopia,Harari,9.3118397,42.1284445
+2092,United States,Saint Georgeʼs,12.0535331,-61.751805
+2093,Mali,Bujumbura Rural,-3.4759817,29.4535702
+2094,Hong Kong,Corozal,9.2045175,-75.27619980073368
+2095,"Tanzania, United Republic of",Tabora,-5.1913822,32.5080629
+2096,Azerbaijan,Gǝncǝ,49.1454303,4.168758919261999
+2097,India,Quiché,18.3018909,-77.5182138
+2098,Libya,Surt,31.2059625,16.5836206
+2099,Azerbaijan,Xaçmaz,37.94646335,58.440956386811955
+2100,Albania,Berat,40.7049677,19.954381043129516
+2101,Romania,Vaslui,46.4977648,27.803085484685425
+2102,"Iran, Islamic Republic of",Osh,40.5361899,72.8033618
+2103,United States,Pedernales,17.9584646,-71.5325569
+2104,France,Nimba,7.6225882,-8.4080587
+2105,Malaysia,Zanzibar Central/South,-6.09994425,39.32094431715264
+2106,Turkey,Gümüşhane,38.92821,-77.182486
+2107,United States,Cuscatlán,,
+2108,Saudi Arabia,Tamanrasset,24.3753438,4.3208436
+2109,Sao Tome and Principe,São Tomé Island,53.54335945,-129.6056971302661
+2110,Nigeria,Ebonyi,6.1996918,8.0348906
+2111,Slovenia,Črnomelj,,
+2112,Malta,Ħaż-Żabbar,25.29609645,55.380720433885074
+2113,Slovenia,Lendava-Lendva,46.5639399,16.4525201
+2114,United States,Lékoumou,7.4084256,16.0471071
+2115,United States,Guárico,50.9367475,6.9411623
+2116,Nicaragua,Carazo,41.9678708,-3.3547428
+2117,Tajikistan,Republican Subordination,38.9723675,70.0883715
+2118,Chile,Putumayo,0.5000086,-76.0000086
+2119,Ethiopia,SNNPR,6.4536525,36.6605637
+2120,Morocco,Gharb-Chrarda-Beni Hssen,,
+2121,Latvia,Alūksnes Novads,,
+2122,Saudi Arabia,Middle Juba,1.4325937,42.6559939
+2123,Ireland,Nakhon Sawan,15.7054772,99.9288481
+2124,Poland,Southern Darfur,,
+2125,Malta,Paola,39.359893,16.039588
+2126,Viet Nam,Kiến Giang,15.8330649,107.2829854
+2127,"Taiwan, Province of China",Ningxia Hui Autonomous Region,37.3095528,105.96085530747737
+2128,United States,Devonshire,50.724140500000004,-3.6607788161410735
+2129,Cambodia,Kampong Cham,12.1174857,105.20800220742942
+2130,"Tanzania, United Republic of",Dodoma,-6.1791181,35.7468174
+2131,Belarus,Yigo,13.535204499999999,144.89715694673106
+2132,Nigeria,Katsina,12.5630825,7.6207063
+2133,Morocco,Meknès-Tafilalet,,
+2134,Paraguay,Boquerón,41.385416,2.1799852
+2135,Mozambique,Maputo Province,-17.7959007,30.9340872
+2136,Slovenia,Pivka,45.6825064,14.1953518
+2137,Bahrain,Central Governorate,31.44107325,34.387727971160544
+2138,"Venezuela, Bolivarian Republic of",Cojedes,9.333333,-68.333333
+2139,Brazil,Herrera,37.3653148,-4.8502348
+2140,Colombia,Los Santos,40.5449825,-5.7972566
+2141,United States,Bình Định,52.2427289,4.8211132
+2142,"Venezuela, Bolivarian Republic of",Portuguesa,8.96739065,-69.3917347493333
+2143,Colombia,Vasilevo,41.4742136,22.6439393
+2144,United States,Aiwo,-0.5332376000000001,166.9134104024684
+2145,Sudan,River Nile,19.0105596,33.018317978238116
+2146,Dominican Republic,Sánchez Ramírez,,
+2147,Algeria,Bouira,36.37284635,3.8906326081002605
+2148,United States,Aysén,14.533333,29.35
+2149,Viet Nam,Tây Ninh Province,,
+2150,Dominican Republic,Monseñor Nouel,,
+2151,Turkey,Kastamonu,41.3680217,33.7619177
+2152,Trinidad and Tobago,Tunapuna/Piarco,10.6854333,-61.32052743250512
+2153,Samoa,Tuamasaga,-13.92188045,-171.800719558637
+2154,Pakistan,Ladakh,33.9456407,77.6568576
+2155,United States,Naranjito,-2.1685398,-79.4630975
+2156,Madagascar,Upper Matsiatra,,
+2157,France,Saint Peter,44.3238384,-93.9585295
+2158,Morocco,Fès-Boulemane,,
+2159,Hong Kong,Wong Tai Sin,22.34165365,114.19385869532955
+2160,Estonia,Raplamaa,58.9419781,24.69840421690721
+2161,Algeria,Souk Ahras,36.1378681,7.826242640053763
+2162,Romania,Ialomiţa,,
+2163,Iraq,Al Muthanná,31.3145731,45.2734534
+2164,Saudi Arabia,Tabuk Region,28.3251866,37.6328648
+2165,Tunisia,Qibilī,,
+2166,Peru,Ucayali,-9.0,-73.5
+2167,Kenya,Makueni,-2.25709305,37.87717148162716
+2168,Iceland,Southern Peninsula,63.941692,-22.201698750144665
+2169,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,30.952481,51.2858845
+2170,Colombia,Casanare,5.5000085,-71.5000086
+2171,United States,Cat Island,24.3385,-75.61499318805444
+2172,Egypt,Damietta,31.4167427,31.8213657
+2173,Morocco,Doukkala-Abda,,
+2174,Algeria,Tipaza,36.52727415,2.16836872941747
+2175,United States,Artibonite,19.2176386,-72.5837813
+2176,Lithuania,Marijampolė County,,
+2177,"Moldova, Republic of",Sîngerei,,
+2178,Armenia,Gegharkunik,40.3030726,45.375739
+2179,India,Kasai,-5.3498001,21.424098
+2180,Afghanistan,Kandahar,31.6205738,65.7157573
+2181,India,Daman and Diu,20.42000485,72.86376290300566
+2182,France,Grand Gedeh,5.8161533,-8.0995537
+2183,Russian Federation,Mingǝcevir,,
+2184,Thailand,Tak,36.5940732,69.7938996
+2185,Brazil,Tartus,34.8936225,35.885167
+2186,Cuba,Pinar del Río,10.4912884,-66.9211128
+2187,France,Samangan,36.0,67.666667
+2188,United States,Fukien,24.4184729,118.35177706753232
+2189,Niger,Dosso,13.3336993,3.621398
+2190,United States,Mandera,3.2285332,40.70561647260599
+2191,Egypt,Qena,26.1615051,32.7182974
+2192,Netherlands,Badakhshan,36.8040254,71.367658
+2193,Morocco,Far Western,22.2799738,114.16411845619804
+2194,Turkey,Elazığ,55.842526199999995,52.03329007582967
+2195,Armenia,Armavir,44.9993585,41.1294061
+2196,Australia,Malew,54.112577,-4.631481955539185
+2197,Latvia,Ilūkste,,
+2198,Liechtenstein,Eschen,48.913344,6.5912051
+2199,France,Dennery,13.923558700000001,-60.92483763133295
+2200,Christmas Island,Cabo Delgado,-12.4254942,39.4168743
+2201,Viet Nam,Tuyên Quang,13.8264298,109.1687805
+2202,United States,San Germán,,
+2203,Brazil,Surin,46.0773762,0.3719914
+2204,Thailand,Phetchaburi,13.0692869,99.6044376
+2205,Slovenia,Tržič,-15.82526305,-47.9291139281426
+2206,France,Sanma,-15.158134,166.93938648535234
+2207,Viet Nam,Bắc Giang,,
+2208,Viet Nam,Bình Phước,,
+2209,United States,Nuristan,35.3,70.833333
+2210,Jordan,Balqa,31.9782917,35.65852324951788
+2211,France,Alo,-14.341965949999999,-178.04199171836038
+2212,Spain,Blue Nile,11.4888327,37.58483
+2213,France,Gao,16.2788129,-0.0412392
+2214,Bulgaria,Sliven,42.6817633,26.3153528
+2215,Tunisia,Tébessa,46.0735844,11.4290065
+2216,Romania,Qachaʼs Nek,-30.113327,28.6810971
+2217,Peru,Loreto,43.439498,13.6070214
+2218,France,Ðiện Biên,43.50095665,-1.465555473793785
+2219,Viet Nam,Long An,23.1038568,107.6946613
+2220,Turkey,Lebap,38.8131139,63.0513218
+2221,Spain,Trujillo Alto,18.33707575,-66.00174210279962
+2222,Nigeria,Nassarawa,10.4621398,7.2239417932662775
+2223,United States,Cunene,-16.5568536,15.7867319
+2224,Viet Nam,Lào Cai,30.1185881,31.4280997
+2225,India,Paktika,32.3936231,68.7036514
+2226,Spain,Mila,45.4641943,9.1896346
+2227,United States,Eastern District,22.2730777,114.23359377341592
+2228,Ghana,Bono East,-8.1091073,111.8781507
+2229,Malta,Kirkop,35.8419845,14.4844481
+2230,Luxembourg,Redange,49.493259,5.9189504
+2231,Japan,Yamaguchi,34.1781317,131.4737077
+2232,Libya,Jabal al Gharbi,30.704649,13.2233859
+2233,Latvia,Madona Municipality,-27.3914473,26.6548973
+2234,Slovenia,Žiri,38.5049169,46.1931357
+2235,Mozambique,Manica,-18.7805296,33.01596358735862
+2236,United States,Yabucoa,18.0479644,-65.879164
+2237,United States,Ribeira Grande,37.8225227,-25.5194914
+2238,Croatia,Karlovačka,50.2246336,12.1877877
+2239,Thailand,Chachoengsao,13.6093192,101.5467201
+2240,United Kingdom,Gamo Gofa,6.170114399999999,37.26206970320297
+2241,United States,Sava,-14.2938722,49.7734024
+2242,Turkey,Mardin,37.3414854,40.7476249
+2243,United Kingdom,Cuyuni-Mazaruni,6.1890730000000005,-59.84956841838364
+2244,United States,Aibonito,18.1393105,-66.2663961
+2245,Afghanistan,Panjshir,35.4338536,69.7930899
+2246,France,Al Jufrah,28.0055724,16.7430292
+2247,Croatia,Virovitičk-Podravska,,
+2248,Ireland,Upper Takutu-Upper Essequibo,2.84496285,-58.97848232945741
+2249,Tunisia,Bājah,-8.21678085,112.97383769999999
+2250,Ecuador,Los Ríos,38.88897715,-77.0090433
+2251,Trinidad and Tobago,Chaguanas,10.5147394,-61.4076757
+2252,China,Tuen Mun,22.3908021,113.9770274
+2253,United States,Cabo Rojo,18.0870192,-67.1459114
+2254,Georgia,Guria,41.9772681,41.982826192238946
+2255,Ecuador,Imbabura,0.3753621,-78.355681
+2256,Uzbekistan,Karakalpakstan,43.7738841,57.6234617
+2257,Egypt,Maysan,32.0182542,47.0695957
+2258,United States,Santa Rosa,38.4404925,-122.7141049
+2259,"Venezuela, Bolivarian Republic of",Bissau,11.861324,-15.583055
+2260,Kenya,Embu,-23.6495294,-46.8528497
+2261,Belgium,Kampong Thom,12.6687923,104.8879197
+2262,Philippines,Camuy,18.4838596,-66.8449104
+2263,Algeria,Biskra,34.784563500000004,5.812435334419206
+2264,Spain,Samtskhe-Javakheti,41.52653525,43.2469570403887
+2265,Turkey,Gash-Barka,15.25,37.5
+2266,United States,Selenge,49.643613599999995,104.08678483621516
+2267,Romania,Giurgiu,43.8959058,25.9658111
+2268,Burundi,Rutana,-3.8618714,30.0676979
+2269,Russian Federation,Ingushetiya Republic,,
+2270,Dominican Republic,La Vega,19.0520669,-70.6316324
+2271,Albania,Fier,40.726826200000005,19.56044971340522
+2272,Thailand,Kanchanaburi,14.44019,99.2676727
+2273,Ecuador,Chimborazo,-1.9262626,-78.7297799
+2274,Myanmar,Sagain,24.4768486,95.47473996361609
+2275,Viet Nam,Đồng Tháp,,
+2276,Burkina Faso,Plateau-Central,12.40414,-0.8864160224616928
+2277,Algeria,Béchar,50.8437751,4.380231774589977
+2278,Tunisia,Silyānah,,
+2279,North Macedonia,Vinica,48.1150838,19.1227761
+2280,Rwanda,Southern Province,-16.5381715,26.7374997
+2281,Azerbaijan,Astara,38.51559775,48.82832234412608
+2282,North Macedonia,Bosilovo,41.4410377,22.7280638
+2283,Libya,Al Jabal al Akhḑar,,
+2284,Italy,Guayama,17.9852036,-66.113567
+2285,Yemen,Şa‘dah,44.2127764,40.272866
+2286,Syrian Arab Republic,Deir ez-Zor,35.3333335,40.1499999
+2287,Thailand,Pattani,6.8678652,101.2504538
+2288,Portugal,Beja,38.0154479,-7.8650368
+2289,United States,Enewetak Atoll,11.5141037,162.06439324194528
+2290,Slovenia,Trebnje,45.9079394,15.0071462
+2291,Uruguay,Rivera,-30.900058,-55.5408151
+2292,Hungary,Nógrád,51.3776867,13.7878781
+2293,Azerbaijan,Nakhichevan,47.2320812,39.7627084
+2294,Syrian Arab Republic,Al-Hasakah,36.5013738,40.7469948
+2295,United States,Yala,6.3344846,101.1409694
+2296,France,Saint-Pierre,48.3832725,7.4718731
+2297,Mauritius,Pamplemousses,-20.098318499999998,57.573905604159094
+2298,Croatia,Ličko-Senjska,,
+2299,"Tanzania, United Republic of",Pwani,-7.1790252500000005,38.93875945833554
+2300,United States,Siparia,10.14716065,-61.57870316884424
+2301,Cuba,Guantánamo,,
+2302,Bulgaria,Razgrad,43.5258211,26.5230603
+2303,Viet Nam,Bạc Liêu,48.29123,11.581193888101906
+2304,Nigeria,Bayelsa,4.7629786,6.028898
+2305,Ecuador,Tungurahua,-1.2765895,-78.4754667
+2306,Jordan,Aqaba,29.543912,35.00668202683799
+2307,Algeria,Adrar,26.4888155,-1.3582442169365363
+2308,Malta,Birkirkara,35.8994547,14.4649578
+2309,Madagascar,Diana,-13.2043844,49.1111434
+2310,Slovenia,Majšperk,,
+2311,United States,Sud-Ouest,10.38692085,-3.283188627811005
+2312,Qatar,Al Wakrah,25.1566623,51.6013212
+2313,France,Batys Qazaqstan,43.2146299,76.3386726
+2314,Azerbaijan,Shaki City,41.2033609,47.1802623
+2315,Turkey,Batman,37.7874104,41.2573924
+2316,Italy,Ogooué-Maritime,,
+2317,Malta,Luqa,35.859653,14.4892913
+2318,Algeria,Naama,33.2336851,-0.8151958390775952
+2319,Lesotho,Mohaleʼs Hoek,-30.1516305,27.4770113
+2320,Algeria,El Mghair,,
+2321,Morocco,Guelmim-Oued Noun,28.5273703,-10.0315515
+2322,Libya,Al Buţnān,-19.8069331,-44.1458324
+2323,Bhutan,Chukha,27.0162851,89.54605775563428
+2324,North Macedonia,Gevgelija,41.1388664,22.5033192
+2325,Egypt,Beni Suweif,,
+2326,Hungary,Tolna,46.4883447,18.5050005
+2327,United States,Rincón,14.5776449,-87.9286581
+2328,Thailand,Bueng Kan,18.2329562,103.8267114
+2329,France,Salas,43.5235412,-0.7136478
+2330,Afghanistan,Balkh,36.7581256,66.8980826
+2331,United Kingdom,Loyalty Islands,-20.9328607,167.16578476651785
+2332,"Moldova, Republic of",Anenii Noi,46.8815631,29.2309122
+2333,Brazil,Yap,9.54626825,138.16515987431325
+2334,Ghana,Northern,-16.403889749999998,179.04897
+2335,Japan,Hacıqabul,,
+2336,"Tanzania, United Republic of",Iringa,-7.5662122,35.07448089086908
+2337,Tunisia,Zaghwān,,
+2338,Spain,Estelí,-19.84928625,-40.26716145646587
+2339,Algeria,Oum el Bouaghi,35.8105805,7.018417796577514
+2340,United States,Black Point,24.0962598,-76.4022591
+2341,Malta,Il-Mellieħa,,
+2342,Armenia,Kotayk,40.4039669,44.71977685298842
+2343,China,Zanzan,8.6702847,-3.3447445
+2344,Turkey,Sinop,41.6394277,34.8681231
+2345,Norway,Nord-Trøndelag Fylke,,
+2346,Tunisia,Tawzar,24.7599386,46.8154802
+2347,Turkey,Burdur,37.5183407,30.1691254
+2348,Kenya,Bomet,-0.7196054000000001,35.23963843035895
+2349,Puerto Rico,Moca,19.394647,-70.5261566
+2350,Mayotte,Mamoudzou,-12.7804136,45.2279761
+2351,Azerbaijan,İsmayıllı,34.0855503,49.6861081
+2352,Bulgaria,Silistra,44.118308,27.2600031
+2353,Trinidad and Tobago,Couva-Tabaquite-Talparo,10.4497669,-61.344388125853015
+2354,Jordan,Mafraq,32.536378799999994,38.13152652312604
+2355,United States,Central Province,-14.183507,29.0375543
+2356,Kenya,Laikipia,0.2858452,36.825771076829064
+2357,Hong Kong,Tai Po,22.4494017,114.1711328
+2358,Nigeria,Kebbi,11.4167574,4.1074545
+2359,Morocco,Oued Ed-Dahab-Lagouira,23.6989172,-15.9310551
+2360,Montenegro,Opština Rožaje,,
+2361,Kenya,Baringo,0.72444025,36.020141937892475
+2362,"Moldova, Republic of",Drochia,48.1128441,27.8095419
+2363,Canada,Fatick,13.9406041,-16.4024021
+2364,Malta,Ix-Xagħra,,
+2365,France,Picardie,49.601756,2.871633889975323
+2366,Italy,Ali Sabieh,11.2133809,42.8699249
+2367,Puerto Rico,Lajas,-6.5603051,-78.7347385
+2368,Albania,Elbasan,41.110623700000005,20.08758484804401
+2369,Oman,Northeastern Governorate,,
+2370,Viet Nam,Hậu Giang,30.2768766,120.1464461
+2371,Slovenia,Kobarid,46.2455017,13.5791754
+2372,Dominican Republic,La Romana,18.4975148,-68.9766638
+2373,Cambodia,Kampong Chhnang,12.1382025,104.3354098
+2374,Turkey,Bilecik,40.1435101,29.9752911
+2375,Thailand,Narathiwat,6.4277319,101.8212475
+2376,Spain,South Caribbean Coast,12.1582922,-83.06538445700855
+2377,Algeria,El Tarf,36.67135625,8.070134002053635
+2378,Argentina,Aragatsotn,40.47489950000001,44.1149455810407
+2379,South Africa,Sandys,32.273816749999995,-64.87459220403093
+2380,"Congo, The Democratic Republic of the",Kasaï-Occidental,14.263199,22.6784
+2381,Latvia,Ludzas novads,56.508281249999996,27.81507823453302
+2382,Spain,Gedo,3.0,42.0
+2383,Somalia,Bay,47.2885,5.71839
+2384,Turkey,Hakkâri,,
+2385,Turkey,Bartın,13.6968325,30.3703697
+2386,Ethiopia,Lualaba,-9.69691495,23.02254385532696
+2387,Slovenia,Črenšovci,,
+2388,Bhutan,Mongar,27.27060865,91.21240123536498
+2389,Tunisia,Kanem,15.2264398,15.3151191
+2390,Colombia,Uíge,-29.70425285,-53.85781254999687
+2391,,Oshana,-18.4702308,15.7434419
+2392,Tunisia,Kef,63.98486065,-22.626598187703223
+2393,Slovenia,Ljutomer,46.5187046,16.1967404
+2394,Guernsey,St Peter Port,49.4568142,-2.5389979
+2395,Lithuania,Telsiai,55.9846135,22.2490753
+2396,Lao People's Democratic Republic,Champasak,14.8828473,105.8420794
+2397,Morocco,Laâyoune-Boujdour-Sakia El Hamra,,
+2398,Papua New Guinea,Madang,-5.0,145.5
+2399,Algeria,In Salah,27.197705499999998,3.5212375793144277
+2400,Tunisia,Al Qaşrayn,,
+2401,Mongolia,Orhon,49.01714525,105.40407632705178
+2402,Zimbabwe,Matabeleland South,-20.7364801,28.9396495
+2403,Afghanistan,Laghman,34.783333,70.183333
+2404,"Iran, Islamic Republic of",Chaharmahal and Bakhtiari,32.844594,49.3486646
+2405,Luxembourg,Wiltz,49.9666914,5.9321021
+2406,Paraguay,Canindeyú,,
+2407,United States,Daşoguz,51.0656916,3.7266966
+2408,Thailand,Uthai Thani,15.3912084,99.4560531
+2409,India,Manus,-2.10326445,146.93254478025523
+2410,Uruguay,Tacuarembó,,
+2411,Morocco,Taza-Al Hoceima-Taounate,,
+2412,Canada,Orellana,-0.78618,-76.4803184
+2413,Puerto Rico,Arecibo,18.4702985,-66.7190726
+2414,Viet Nam,Thái Bình,,
+2415,Viet Nam,Nam Định,35.143958,126.891346
+2416,Viet Nam,Quảng Bình,,
+2417,Slovenia,Litija,46.0575677,14.8314192
+2418,Malta,Ħaż-Żebbuġ,,
+2419,United States,Lija,35.901766,14.4476136
+2420,Slovakia,Saint Mark,53.3123864,-2.53484875
+2421,Madagascar,Vakinankaratra,-19.71130945,46.83554814522457
+2422,India,Kapisa,34.905556,69.741667
+2423,United States,Central River,13.575073849999999,-14.77971469760196
+2424,France,Denguélé,-26.647599,15.1656818
+2425,Turkey,Çankırı,46.9026223,6.3546205
+2426,Senegal,Thiès,41.6249059,-85.90528913464351
+2427,Algeria,Khenchela,34.913345500000005,6.905943093880865
+2428,Latvia,Daugavpils municipality,55.8712267,26.5159337
+2429,United States,Western Bahr al Ghazal,8.545555499999999,25.22245041868897
+2430,United States,Kefa,25.2647,105.315
+2431,El Salvador,Ahuachapán,,
+2432,Nigeria,Gombe,10.38301,11.206567
+2433,United States,Moore’s Island,26.30237885,-77.60109939552825
+2434,Slovenia,Trbovlje,46.1558964,15.0540204
+2435,Honduras,Choluteca,13.3696253,-87.07564445652513
+2436,Canada,Huancavelica,-13.0,-75.0
+2437,Zimbabwe,Mashonaland Central,-16.742872,31.2952086
+2438,Hong Kong,Wan Chai,22.2790146,114.1724833
+2439,Australia,Berry Islands,25.5905,-77.72610063734791
+2440,Russian Federation,Khatlon,37.8804734,69.2636923
+2441,Viet Nam,Quang Nam-Da Nang,22.846517050000003,108.29094394671847
+2442,Finland,Phú Yên,20.6620586,106.0599835939156
+2443,Turkey,Artvin,41.160506,41.8398627
+2444,Malta,Marsaskala,35.8629162,14.5591879
+2445,Central African Republic,Bangui,4.3907153,18.5509126
+2446,Saudi Arabia,Mirab Harerge,,
+2447,Estonia,Lääne,42.937342799999996,-99.40037224964752
+2448,Ethiopia,Welega,9.0,35.5
+2449,Myanmar,Magway,20.2747958,94.7362245
+2450,Lithuania,Aizkraukles novads,56.48751875,25.261832677164627
+2451,Thailand,Rotuma,-12.49947585,177.0394455641407
+2452,Kenya,Isiolo,1.0060600499999999,38.74789538540634
+2453,Brazil,Faafu Atholhu,3.1314909,72.88435672916549
+2454,India,Ratanakiri,13.9311155,107.03914990288844
+2455,Myanmar,Mon,50.4549568,3.951958
+2456,Puerto Rico,Naguabo,18.2120824,-65.7353205
+2457,Georgia,Kakheti,41.737352,45.6721781
+2458,India,Moyen-Cavally,,
+2459,Peru,Madre de Dios,-12.0,-70.25
+2460,France,Nimroz,30.7753811,62.4793088
+2461,Tonga,Vava‘u,-18.62315975,-174.00203980987774
+2462,Ukraine,Zabul,32.3068942,67.129904
+2463,Brazil,Augšdaugava Municipality,,
+2464,Suriname,Commewijne,5.8401198,-54.92444309055077
+2465,Hungary,Jalal-Abad,40.9298182,73.00119
+2466,France,Chucher Sandevo,42.0994869,21.3868611
+2467,Armenia,Ararat,39.7019346,44.2983964
+2468,Puerto Rico,Sabana Grande,18.0794738,-66.9600191
+2469,Latvia,Smiltene,57.4243197,25.9045413
+2470,Haiti,Sant Julià de Loria,,
+2471,"Taiwan, Province of China",disputed,28.11783635,94.02030639796327
+2472,Latvia,Dobeles novads,56.6320029,23.142759333900436
+2473,Jersey,St. Brelade,49.1930223,-2.1996144
+2474,Luxembourg,Echternach,49.8120961,6.4214859
+2475,India,Mid Western,-32.60213615,149.7367441652866
+2476,Libya,Darnah,31.8689169,22.5825391
+2477,United States,Para,-6.8699697,-75.0458515
+2478,United Kingdom,Aust-Agder,59.567840149999995,7.371130883739518
+2479,Chile,Bengo,-8.30833915,13.88301594422697
+2480,Spain,Ohangwena,-17.5877369,16.7737955
+2481,Sudan,Western Darfur,-33.9693291,18.6283921
+2482,Botswana,North-East,42.2150373,-79.8358415
+2483,France,Javis Raioni,41.7431519,44.7961317
+2484,Belgium,Inhambane,-22.779116,34.5661741
+2485,France,Khojavend,39.6550726,46.90323691314797
+2486,"Taiwan, Province of China",Yên Bái,42.35382695,-3.666729824210412
+2487,Kazakhstan,Mangghystaū,,
+2488,France,Novaci,45.1724288,23.6637538
+2489,"Moldova, Republic of",Cahul,45.9044087,28.1946583
+2490,France,Grand Bassa,5.8812713,-10.0494042
+2491,France,Xiangkhoang,19.41789095,103.35575492388296
+2492,Nicaragua,Chontales,11.8915422,-85.1013926
+2493,Thailand,Chaiyaphum,16.2720349,101.7153824
+2494,Indonesia,Bangka–Belitung Islands,-2.7052886,106.3585607
+2495,Solomon Islands,Honiara,-9.437797549999999,159.9624174786047
+2496,Peru,Pasco,28.2996183,-82.4522702
+2497,France,Languedoc-Roussillon,43.65420305,3.674669940206605
+2498,Mauritius,Ma’rib,15.5986243,45.2598934
+2499,United States,Sandaun,-3.5,142.0
+2500,Netherlands,Faritanin’ i Toliara,-21.88531455,44.33039356965506
+2501,Turkey,Kilis,36.7797231,37.1416892
+2502,Turkey,Şǝmkir,,
+2503,Guinea,Nzerekore,8.3925728,-8.8572519
+2504,Kazakhstan,Turkistan,43.3019457,68.2703698
+2505,United States,Dhaalu Atholhu,0.30417835,73.21247455719056
+2506,Slovenia,Polzela,46.2791783,15.0754267
+2507,Madagascar,Atsimo-Andrefana,-23.0907053,44.40133257710572
+2508,Myanmar,Kachin,26.0207656,97.4919258
+2509,Brazil,Niari,-2.7416334,12.3332136
+2510,Benin,Mono,37.9533927,-118.9398758
+2511,Estonia,Lääne-Virumaa,,
+2512,Turkey,Zonguldak,41.250324,31.8389738
+2513,Lithuania,Tauragė County,,
+2514,Bulgaria,Plateaux,-3.0701495000000003,16.62452757314927
+2515,United States,Al Marqab,14.372967,44.229865
+2516,Viet Nam,Vĩnh Phúc,,
+2517,"Venezuela, Bolivarian Republic of",Apure,7.166667,-68.833333
+2518,Mauritius,Savanne,-20.45806125,57.489206513345835
+2519,Burkina Faso,Sahel,14.0279165,-0.7717775666263393
+2520,Puerto Rico,Vieques,18.1215622,-65.45746403129988
+2521,Peru,Guainía,4.91939565,-52.31666294665628
+2522,Cambodia,Kampong Speu,11.57753675,104.27140233242656
+2523,Puerto Rico,Toa Baja,18.4426255,-66.2545652
+2524,Spain,Adamaoua,6.8496708,13.2163222
+2525,Philippines,Negros Island Region,-2.0612945,147.3858001
+2526,Myanmar,Chin,35.000074,104.999927
+2527,United States,An Nuqāţ al Khams,,
+2528,United Kingdom,Mont Buxton,-4.613644,55.4440245
+2529,Azerbaijan,Qǝbǝlǝ,-23.52139835,-47.530071256785746
+2530,United States,Hadjer-Lamis,12.6903906,16.3352648
+2531,Slovenia,Mozirje,46.3396381,14.9634205
+2532,United States,Bikini Atoll,11.5391494,165.27162612145537
+2533,Norway,Ålands landsbygd,60.2138828,19.6229621
+2534,Chile,Diego Martin,10.71385965,-61.579355509504495
+2535,Ecuador,Sucumbios,-0.039138,-76.5119678
+2536,Slovenia,Dravograd,46.5896276,15.0235456
+2537,Viet Nam,Lai Châu,48.6023503,7.555194
+2538,Kenya,Siaya,-0.06040135,34.200135009996295
+2539,Tonga,Tongatapu,-21.1678253,-175.27386910577957
+2540,"Moldova, Republic of",Dubăsari,,
+2541,United States,Qeqertalik,68.5828712,-49.22158153398078
+2542,Kyrgyzstan,Issyk-Kul,42.46203985,77.07898624139989
+2543,Mexico,El Paraíso,14.7776165,-87.9462474
+2544,Zambia,Mirab Shewa,9.12706925,37.85556295816925
+2545,Thailand,Samut Sakhon,13.5708192,100.2585874
+2546,United States,Amoron'i Mania,-20.4591292,46.72639219499414
+2547,"Tanzania, United Republic of",Mtwara,-10.35889015,40.00839838031362
+2548,Slovakia,Bitlis,38.4950867,42.1678372
+2549,Mali,Kwanza Sul,-9.7941023,15.2785492
+2550,United States,Encamp,42.5359781,1.5836753
+2551,Viet Nam,Quảng Ninh,29.3085851,88.9158056
+2552,Malta,Pembroke,45.8260909,-77.113541
+2553,Somalia,Awdal,10.5000045,43.4999956
+2554,Morocco,Guelmim-Es Smara,,
+2555,Turkey,Şırnak,,
+2556,Canada,North Andros,24.8875,-78.08116191638643
+2557,"Moldova, Republic of",Teleneşti,,
+2558,United Kingdom,Al Wilāyah ash Sharqīyah,,
+2559,Afghanistan,Paktia,33.705724,69.4083555
+2560,Egypt,Baalbek-Hermel,34.009653,36.2117096
+2561,Thailand,Saraburi,14.5249471,100.9160757
+2562,"Moldova, Republic of",Ialoveni,46.948146449999996,28.77996513789418
+2563,Saudi Arabia,Al Farwaniyah,29.24758225,47.911913830390105
+2564,Estonia,Viljandimaa,58.322947150000005,25.582486600702637
+2565,France,Rivas,45.5858,4.24753
+2566,France,Kidričevo,,
+2567,Malta,Sannat,46.1198733,2.4078788
+2568,Germany,Koh Kong,11.6813417,103.0258043
+2569,Mauritania,Dakhlet Nouadhibou,20.8019537,-16.0012708
+2570,United States,Mopti,14.514489000000001,-3.646458060483871
+2571,Gabon,Wele-Nzas,1.4648719,11.131676
+2572,Mauritius,Grand Port,-20.40385065,57.63305171301659
+2573,Ethiopia,Bīnshangul Gumuz,,
+2574,United States,Coamo,18.0807012,-66.3565542
+2575,Italy,AT.17,47.59397,14.12456
+2576,Georgia,North Caribbean Coast,14.3392053,-83.8790622
+2577,"Moldova, Republic of",Leova,46.4780285,28.2539655
+2578,"Moldova, Republic of",Cimişlia,,
+2579,Latvia,Saldus Rajons,56.4912463,21.0129783
+2580,"Bolivia, Plurinational State of",Pando,-11.183333,-67.183333
+2581,Benin,Ouémé,47.8171618,3.5728073
+2582,France,Annobon,-1.4196148,5.6409968
+2583,United States,Sipaliwini,3.7867943,-56.1498825
+2584,Kenya,Migori,-1.0211616000000001,34.30964322421073
+2585,Thailand,Sing Buri,14.9936716,100.3602963
+2586,France,River Gee,5.2092183,-7.6657088
+2587,Rwanda,Kirundo,-2.5459180000000003,30.102274163736432
+2588,"Congo, The Democratic Republic of the",Orientale,1.7069386999999998,26.643813998412064
+2589,Somalia,Mudug,6.6507279,48.3009945
+2590,Kenya,Trans Nzoia,1.0454582499999998,34.97904397271594
+2591,Viet Nam,Hà Giang,28.1957433,121.0592134
+2592,Thailand,Nong Khai,17.8812453,102.7490052
+2593,Italy,Šmartno ob Paki,,
+2594,United States,North Kordofan,13.083333,30.35
+2595,Spain,Sanaag,10.3505022,47.5333298
+2596,Canada,Santa Catarina do Fogo,14.9006458,-24.321011398551676
+2597,China,Oudômxai,,
+2598,United States,Saint Mary,45.8332243,0.388517
+2599,Turkmenistan,Balkan,41.77863335,23.814655401592667
+2600,Spain,Usulután,,
+2601,Dominican Republic,Baoruco,18.48945765,-71.33084683913694
+2602,Luxembourg,Diekirch,49.8690898,6.1600549
+2603,Thailand,Sakon Nakhon,17.1904453,103.9730898
+2604,United States,North Side,19.3352683,-81.1849992
+2605,Thailand,Lopburi,15.026458,100.8089178
+2606,Viet Nam,Lạng Sơn,49.6209305,6.141206973452729
+2607,China,Soufrière,,
+2608,Ecuador,Santo Domingo de los Tsáchilas,,
+2609,France,Bobonaro,-9.03434,125.32401
+2610,United States,Kwajalein Atoll,9.0833333,167.3333333
+2611,Brazil,Tadjourah,11.7331574,42.6815878
+2612,Andorra,Ordino,42.55615,1.5334945
+2613,Albania,Lezhë,,
+2614,Turkey,Ağrı,42.3951056,-7.1141645
+2615,Thailand,Chanthaburi,12.9081033,102.0159145
+2616,United Kingdom,Bomi,29.8626956,95.7678449
+2617,Mauritius,Rodrigues,-19.719514850000003,63.41756866477273
+2618,United States,Sar-e Pol,35.5532126,66.2426766
+2619,Latvia,Jēkabpils Municipality,,
+2620,Cambodia,Svay Rieng,11.1942275,105.7973275083619
+2621,Mexico,San Pedro,5.014152,-6.940223716273168
+2622,Switzerland,Kayes,13.8001844,-10.22455481493909
+2623,Spain,Eastern Highlands,-6.5,145.583333
+2624,Slovenia,Slovenska Konjice,,
+2625,United States,Bouenza,-4.2868706,13.3972102
+2626,Botswana,Lobatse,-25.2100604,25.6819594
+2627,Sudan,Kassala,16.0431989,36.0181112
+2628,Argentina,Raymah,15.733155,43.794219
+2629,Netherlands,Bordj Badji Mokhtar,22.626146050000003,0.12758168507861467
+2630,"Moldova, Republic of",Găgăuzia,,
+2631,Bulgaria,Kyustendil,42.334942749999996,22.88841163833711
+2632,Kenya,Garissa,-0.52360305,40.356386905787105
+2633,Brazil,Illizi,27.852850500000002,7.8189636047396895
+2634,France,Aur Atoll,8.2673625,171.0881869
+2635,Spain,Gaza,31.4432234,34.360007
+2636,Chad,Logone Occidental,8.7795637,15.9126749
+2637,United States,Moka,58.8389795,22.7567667741515
+2638,Georgia,Shida Kartli,41.988683550000005,43.981129820759406
+2639,United States,Uvs,49.6313887,92.9558186
+2640,Trinidad and Tobago,Princes Town,10.20480035,-61.28061860703701
+2641,"Moldova, Republic of",Floreşti,5.4886014,-54.0286382
+2642,United States,Limousin,45.7175403,1.7406933
+2643,Dominican Republic,Dajabón,,
+2644,United States,Canóvanas,,
+2645,Madagascar,Alaotra Mangoro,-18.0186831,48.35493625798404
+2646,Italy,Tafea,-19.3706034,169.67524276362514
+2647,Azerbaijan,Xankǝndi,,
+2648,Thailand,Maha Sarakham,16.1861887,103.2955401
+2649,Angola,Huíla,24.4459329,118.0640054
+2650,India,Abyan,13.786202,46.141766
+2651,Brazil,Tillabéri,,
+2652,"Moldova, Republic of",Glodeni,46.6534798,24.6099973
+2653,United States,Ahafo,6.9168852,-2.5350966
+2654,Uruguay,Durazno,-33.0833329,-56.0833331
+2655,Kenya,Taita Taveta,-3.4178355,38.36706762808966
+2656,Albania,Dibër,-22.53454765,-43.1971058438503
+2657,Uzbekistan,Jizzax,40.136534499999996,67.82635934581047
+2658,Norway,Northern Governorate,26.277847700000002,50.41811227624581
+2659,Syrian Arab Republic,Idlib,35.8600391,36.57109063293224
+2660,Russian Federation,Bilǝsuvar,,
+2661,Benin,Alibori,11.4649482,2.7938798
+2662,"Moldova, Republic of",Raionul Soroca,48.16427455,28.161545542478166
+2663,Madagascar,Atsinanana,-18.9771559,48.87421408994375
+2664,Malta,L-Imqabba,35.8456802,14.4666263
+2665,Slovenia,Cerknica,45.7936578,14.361883
+2666,United States,Samdrup Jongkhar,27.0211122,91.80348078547044
+2667,Lao People's Democratic Republic,Savannahkhét,,
+2668,Paraguay,Concepción,14.9220284,-87.6112566
+2669,India,Ghowr,34.1605257,64.9201949
+2670,United States,Barrigada,13.5049972,144.8301568
+2671,Russian Federation,Radlje ob Dravi,46.6149451,15.2228247
+2672,Argentina,Espaillat,19.5766693,-70.4819641
+2673,Ireland,Saint Anthony,38.3144995,-86.8266603
+2674,Hungary,Miskolc,48.1030643,20.7900429
+2675,Denmark,Mae Hong Son,19.3927456,98.2031112
+2676,Bahrain,Southern Governorate,25.84000695,50.59026934859599
+2677,Latvia,Bauskas Rajons,,
+2678,Mongolia,Hövsgöl,,
+2679,Kenya,Elegeyo-Marakwet,,
+2680,Iraq,Wāsiţ,31.8034812,-97.0933471
+2681,India,Chimbu,-6.0225617,144.9804836
+2682,Trinidad and Tobago,Sangre Grande,10.6375402,-61.11774994093055
+2683,Russian Federation,Jewish Autonomous Oblast,48.5601613,132.2775662
+2684,Gabon,Ngouni,-12.8673064,45.1307674
+2685,France,Ségou,22.41831575,114.21012608281436
+2686,Slovenia,Laško,51.20279305,6.68399619405158
+2687,United States,Al-Shahaniya,25.4450415,51.011106308917974
+2688,France,Santiago Rodríguez,14.7547109,-87.8815333
+2689,Uruguay,Soriano,-33.4921266,-57.7893105
+2690,Sudan,White Nile,11.8992466,32.7363825
+2691,United States,Aguas Buenas,18.25041825,-66.13012947319635
+2692,Azerbaijan,Tovuz,40.992341,45.6163371
+2693,"Tanzania, United Republic of",Njombe,-9.28614975,35.1575090043579
+2694,Mauritania,Tiris Zemmour,24.1951392,-9.6664199
+2695,United States,Samegrelo and Zemo Svaneti,42.9064624,42.6534174
+2696,Botswana,Selibe Phikwe,-21.9746046,27.8425355
+2697,Sudan,Northern Darfur,9.1152797,27.2222143
+2698,Slovenia,Zagorje ob Savi,46.1342168,14.9952714
+2699,Spain,Uvea,-13.2846405,-176.20665679493294
+2700,Algeria,Touggourt,32.98251965,6.235443156542997
+2701,Russian Federation,Altai,50.7114101,86.8572186
+2702,El Salvador,Cabañas,,
+2703,Slovenia,Škofljica,,
+2704,Thailand,Prachin Buri,14.1542055,101.5547823
+2705,Seychelles,Anse Etoile,-4.5932954,55.455248
+2706,Denmark,Delchevo,41.96355015,22.772410825147805
+2707,Ecuador,Napo,-0.7626471,-77.9701878
+2708,Hungary,Bakool,4.3514387,43.7186102
+2709,United States,Şamaxı,55.41530995,-163.14644447076304
+2710,Belgium,Baladīyat Ţubruq,,
+2711,United States,Ngwaketsi,,
+2712,Romania,Dadra and Nagar Haveli,20.2733604,73.0044988
+2713,France,Itasy,-19.0535322,46.99220107204388
+2714,Estonia,Võrumaa,,
+2715,"Moldova, Republic of",Orhei,47.3782288,28.8246754
+2716,France,Sud-Est,44.97028655,28.282042663820434
+2717,El Salvador,Morazán,50.4577279,4.0979858
+2718,Slovenia,Postojna,45.7752438,14.2117877
+2719,France,Tanganyika,-5.9010019,29.1778624
+2720,Puerto Rico,Barceloneta,41.3821171,2.1854822
+2721,Somalia,Lower Shabeelle,-0.612399,41.710008
+2722,Slovenia,Hrpelje-Kozina,45.56233185,14.012566293761449
+2723,Papua New Guinea,Enga,-5.6725937,143.6436942
+2724,Latvia,Carnikava,57.1275696,24.276768147528458
+2725,Canada,Swains Island,-11.052904,-171.07673494730147
+2726,Turkey,Ardahan,41.0372501,42.7462189
+2727,Lesotho,Mafeteng,-29.8224468,27.2388281
+2728,Brazil,Kindia,10.1154374,-13.1916883
+2729,Turkey,Kon Tum,14.3615256,108.0039102
+2730,Qatar,Baladīyat Umm Şalāl,,
+2731,Kenya,Homa Bay,-0.56396015,34.31878185590796
+2732,Guatemala,Totonicapán,,
+2733,India,Lozovo,41.7806249,21.9072683
+2734,Uruguay,Río Negro,-23.9874056,-46.4668713
+2735,Bahamas,Freeport,42.2966861,-89.6212271
+2736,Slovenia,Ribnica,45.7399923,14.7261067
+2737,Myanmar,Nay Pyi Taw,19.7540045,96.1344976
+2738,Georgia,Mtskheta-Mtianeti,42.2276489,44.85690839812756
+2739,"Moldova, Republic of",Ştefan-Vodă,,
+2740,Saint Kitts and Nevis,Saint George Basseterre,17.2391544,-62.6424082
+2741,Malta,Saint Venera,59.8282072,30.3986067
+2742,Ethiopia,South Kivu,-3.2653155,27.8705717
+2743,Viet Nam,Hòa Bình,,
+2744,Thailand,Samut Songkhram,13.3576862,99.9619685
+2745,Turkey,Karaman,37.1796848,33.3383665
+2746,"Moldova, Republic of",Cantemir,46.2797499,28.1988444
+2747,United States,Comerío,42.0828121,-122.7078113
+2748,Slovenia,Gornja Radgona,46.6769963,15.9913176
+2749,France,Nui,-7.22075985,177.14611216982678
+2750,Switzerland,Appenzell Innerrhoden,47.3007262,9.3991527
+2751,United States,Sinnār,17.733333,33.233333
+2752,Germany,Timimoun,30.0244725,0.8485978976216642
+2753,"Venezuela, Bolivarian Republic of",Delta Amacuro,8.6282101,-61.5648108
+2754,Azerbaijan,Qax,41.2563763,46.800640134082556
+2755,United States,Debub Welo,,
+2756,Hong Kong,Sham Shui Po,22.32819,114.1608545
+2757,Senegal,Kaolack,14.0436225,-16.016446185954038
+2758,Germany,Western Highlands,-5.841586,144.2355348
+2759,Estonia,Järvamaa,,
+2760,Slovenia,Cerklje na Gorenjskem,46.2525083,14.4872011
+2761,Angola,Bíe,38.3355798,-81.6073117
+2762,Cambodia,Kandal,11.39459395,105.01840978381824
+2763,Poland,L-Għarb,-18.0105907,-70.24988286657972
+2764,Norway,Finnmark,58.9435055,9.5833627
+2765,Myanmar,Kayah,19.2812505,97.3291806
+2766,United States,Jinotega,13.8021629,-85.5464603
+2767,India,Tandjilé,,
+2768,United States,Al Maḩwīt,,
+2769,United States,Blowing Point,18.17504,-63.0936881
+2770,Poland,Zinder,13.8063421,8.9891659
+2771,Brazil,Marowijne,5.708327199999999,-54.353690026608106
+2772,Honduras,Comayagua,14.55509585,-87.67794635681561
+2773,Cameroon,North,13.4526455,-2.227736
+2774,Montenegro,Opština Plužine,,
+2775,France,Bururi,-3.8581592,29.584379
+2776,Somalia,Lower Juba,0.0,42.0
+2777,Angola,Moxico,-12.7287195,21.2737637
+2778,Russian Federation,Bel Ombre,-4.6193716,55.4112979
+2779,United States,Grand Cape Mount,,
+2780,Mayotte,Acoua,-12.7243245,45.0589372
+2781,Guinea-Bissau,Gabú,10.3991906,12.6990938
+2782,Botswana,Kgatleng,-24.1447751,26.4204756
+2783,Malta,Saint Lucia,13.8250489,-60.975036
+2784,Kenya,Tharaka - Nithi,-0.19370805000000002,37.96140495608314
+2785,United States,Toa Alta,18.3887052,-66.247968
+2786,Senegal,Diourbel,14.7043898,-16.0511737
+2787,India,Barh el Gazel,14.4682468,16.9416836
+2788,Iraq,Al Qādisīyah,,
+2789,Senegal,Ziguinchor,12.5634929,-16.2724609
+2790,Brazil,Rason,42.2497316,130.3113296
+2791,Greece,Zou,7.2834335,2.1227604
+2792,Egypt,Al Wilāyah al Wusţá,,
+2793,Thailand,Phatthalung,7.543525,99.9971582
+2794,Malta,Bormla,35.8825817,14.522721
+2795,Yemen,Aḑ Ḑāli‘,32.502433,80.1056099
+2796,United States,Middle Island,40.8842653,-72.9373262
+2797,Slovenia,Dornava,46.4541658,16.00552685595037
+2798,Estonia,Hiiumaa,58.8901657,22.70960188890278
+2799,Puerto Rico,Jayuya,18.2188704,-66.5923697
+2800,Kenya,Nyanza,-0.540052,34.488269167993266
+2801,France,Laborie,13.7896386,-61.00488229054131
+2802,,Hardap,-24.4140944,17.4134051
+2803,Honduras,Intibucá,,
+2804,United States,Lower River,13.3978304,-15.726331219575897
+2805,Guatemala,Baja Verapaz,15.1009234,-90.3139743
+2806,Iceland,Westfjords,65.9044156,-21.812722724564118
+2807,Israel,Shinyanga,-3.7622225499999997,33.2320360738371
+2808,Liechtenstein,Schaan,47.1663397,9.510312
+2809,United States,Cacheu,12.274246,-16.1648911
+2810,Italy,Southern Ari Atoll,,
+2811,Honduras,Copán,42.6292425,-74.8904323
+2812,India,Patillas,18.038900050000002,-66.01803507002688
+2813,Mongolia,Arhangay,47.862646,101.0316283
+2814,Kenya,Kericho,-0.3666,35.2833
+2815,Estonia,Jõgevamaa,,
+2816,"Moldova, Republic of",Taraclia,45.8957779,28.667035
+2817,Turkey,Bingöl,-22.8987673,-47.0258389
+2818,Togo,Kara,30.0443879,31.2357257
+2819,Azerbaijan,Zaqatala,41.6180321,46.75951258759341
+2820,Israel,Quneitra,33.1246885,35.824942
+2821,South Africa,Atakora,10.7160515,1.5331527
+2822,Nigeria,East Sepik,-4.355541,143.2325162
+2823,Saudi Arabia,Vayots Dzor,39.75381845,45.423628216700905
+2824,China,Ngöbe-Buglé,,
+2825,Morocco,Tadla-Azilal,,
+2826,"Congo, The Democratic Republic of the",Sédhiou,,
+2827,"Congo, The Democratic Republic of the",West Pokot,1.8798607999999999,35.21061300684997
+2828,Slovenia,Braslovče,,
+2829,Switzerland,Artigas,42.8038,2.21212
+2830,Slovenia,Ruše,45.2776655,7.4136357
+2831,Jordan,Ajloun,32.32990365,35.75315700221968
+2832,Italy,Bougainville,49.8699135,2.0432341
+2833,Germany,Bimini,25.70318795,-79.28145926583792
+2834,France,Yanggang-do,36.1298458,127.7549875
+2835,Azerbaijan,Masally,39.034573300000005,48.66756070393579
+2836,Liechtenstein,Triesen,47.106994,9.5274876
+2837,North Macedonia,Debar,41.62219195,20.180816037286114
+2838,Kyrgyzstan,Naryn,41.4254935,76.0057796
+2839,Algeria,Beni Abbes,29.083202,-2.65900601043017
+2840,,Omaheke,-21.9074676,19.3929661
+2841,France,Kerguelen,-49.237441950000004,69.62275903679347
+2842,Canada,Makedonski Brod,41.507489,21.2165416
+2843,,Omusati,-18.2862314,14.8856679
+2844,Slovenia,Moravče,60.6841,13.7168
+2845,Spain,Jalapa,14.65079355,-89.93908531263284
+2846,Ecuador,Cañar,42.0929065,0.377489
+2847,Azerbaijan,Sabirabad,39.889001449999995,48.795703059722825
+2848,"Moldova, Republic of",Strășeni,47.3530092,9.6348381
+2849,Slovenia,Trzin,46.1302879,14.556192
+2850,Kenya,Lamu,-2.2675396,40.9010641
+2851,Slovenia,Poljčane,,
+2852,United States,Il-Birgu,35.8881119,14.5238445
+2853,Dominican Republic,Peravia,18.3309575,-70.3712349
+2854,Botswana,Kweneng,-23.899835,25.959866
+2855,South Sudan,Unity,8.313308549999999,30.00839124075473
+2856,Botswana,Jwaneng,-24.600417,24.730277
+2857,United States,Gurabo,18.2555647,-65.9723799
+2858,Azerbaijan,Barda,38.0309998,21.3636367
+2859,Faroe Islands,Ðắk Nông,60.2288228,24.949251394299193
+2860,Chad,Batha,37.4888637,-2.7709805
+2861,Chile,Ribeira Grande de Santiago,14.9158522,-23.6048421
+2862,Gabon,Nyanga,-17.917632849999997,32.78981448155953
+2863,France,Essequibo Islands-West Demerara,6.6021156,-58.534228059648925
+2864,Botswana,Ghanzi,-21.6989682,21.6452408
+2865,Turkmenistan,Ahal,38.8395548,58.8610186
+2866,Montenegro,Danilovgrad,42.55221,19.1052668
+2867,Puerto Rico,Dorado,18.4587209,-66.2677506
+2868,Luxembourg,Remich,49.5442267,6.3676062
+2869,Brazil,Ash Shāţiʼ,,
+2870,Turkey,Tunceli,39.1060641,39.5482693
+2871,Kuwait,Ar Rifā‘ wa al Minţaqah al Janūbīyah,,
+2872,Seychelles,Grand Anse Praslin,-4.3140444,55.685841
+2873,Ecuador,Morona-Santiago,-2.6232969,-78.0048106
+2874,Afghanistan,Helmand,31.0,64.0
+2875,Austria,Šalovci,,
+2876,United Kingdom,Kujalleq,61.0,-45.0
+2877,North Macedonia,Shtip,41.7374724,22.1935856
+2878,United States,Bioko Norte,3.6484594,8.7851155
+2879,North Macedonia,Valandovo,41.3173419,22.5619765
+2880,Cambodia,Kratie,12.678301699999999,106.05817329824376
+2881,Eswatini,Shiselweni,-27.024344,31.313400298036466
+2882,Puerto Rico,Vega Alta,18.4121187,-66.3312486
+2883,Slovenia,Hrastnik,46.1456196,15.0817358
+2884,United States,East Grand Bahama,26.67371405,-78.06300398777759
+2885,Honduras,Santa Bárbara,,
+2886,Guinea,Boke,11.3406898,-13.9440724
+2887,Burkina Faso,Boucle du Mouhoun,12.4777805,-3.5879571310124456
+2888,United States,Northern Red Sea,15.605504100000001,39.4517829
+2889,Slovenia,Turnišče,45.9489257,8.1251598
+2890,Guatemala,Chimaltenango,14.6539748,-90.92727412053142
+2891,Sudan,Ash Shamaliyah,30.949015,47.175114
+2892,Slovenia,Ormož,58.093407850000006,16.779909072043303
+2893,Guinea,Faranah,10.3143203,-10.890097
+2894,"Tanzania, United Republic of",Singida,-4.7254268,34.974331335017155
+2895,Qatar,Al Khor,25.5598841,55.5640197
+2896,Congo,Pointe-Noire,-4.7975373,11.8503297
+2897,Lebanon,Nabatîyé,49.0897327,3.3967017
+2898,Burkina Faso,Centre-Nord,13.238710000000001,-1.0349831514084509
+2899,North Macedonia,Probishtip,41.9998386,22.1784767
+2900,Ghana,Brong-Ahafo,,
+2901,Mozambique,Niassa,-13.0638577,36.4669964
+2902,Slovenia,Mengeš,47.960984800000006,7.715400376464171
+2903,Puerto Rico,Ciales,18.26380545,-66.50827910425036
+2904,Madagascar,Vatovavy Fitovinany,-21.266033399999998,47.863708707508536
+2905,Honduras,Valle,13.5110996,-87.54729253516118
+2906,France,Toledo,39.8560679,-4.0239568
+2907,Slovenia,Oplotnica,46.3866934,15.4486315
+2908,Malta,Safi,32.2650776,-9.230554032530662
+2909,Slovenia,Bistrica ob Sotli,46.0571033,15.6618232
+2910,Montenegro,Ulcinj,41.926012,19.2055563
+2911,North Macedonia,Negotino,41.8783348,20.8858929
+2912,Spain,Talas,38.6908169,35.5518755
+2913,Brazil,Mayaro,39.8240511,-121.4221901
+2914,,Kavango East,-18.3982355,20.72468
+2915,United States,Vega Baja,18.4445314,-66.387587
+2916,Kyrgyzstan,Osh City,40.5361899,72.8033618
+2917,Uzbekistan,Sirdaryo Region,40.3737191,68.4341132
+2918,Chad,Guéra,49.3425229,8.6586199
+2919,Montenegro,Opština Plav,,
+2920,Italy,Kunene,-19.6792809,13.9756564
+2921,United States,Aakkâr,,
+2922,Puerto Rico,Hatillo,9.918832,-84.1030856
+2923,Burkina Faso,Kadiogo,12.36732,-1.5430869129979032
+2924,Slovenia,Starše,37.7815535,-122.4925035
+2925,United States,Mayo-Kebbi Est,10.126618,15.818345
+2926,Russian Federation,Betsiboka,-17.095744,47.26007086801634
+2927,Latvia,Mārupe,43.6574316,1.420372
+2928,Zambia,Luapula,-11.7089115,27.485634599425133
+2929,Georgia,Racha-Lechkhumi and Kvemo Svaneti,42.5888931,43.4471402
+2930,Estonia,Põlvamaa,,
+2931,Paraguay,Amambay,-23.0,-56.0
+2932,Lesotho,Quthing,-30.3601252,27.9855738
+2933,United States,Vieux-Fort,15.9490608,-61.6973849
+2934,Slovenia,Vojnik,46.2906413,15.3088458
+2935,Ecuador,Hodh Ech Chargi,,
+2936,Cambodia,Pursat,12.4662592,103.7426829518918
+2937,Japan,Batken,40.0613536,70.821754
+2938,United States,Talofofo,13.353904,144.75329319797686
+2939,United States,Bogdanci,41.201607,22.577652
+2940,,Tsumeb,-19.248402,17.7087503
+2941,Slovenia,Kungota,46.64138365,15.596840039110171
+2942,Bhutan,Samchi,27.0352532,89.0147344
+2943,Spain,Ceiba,18.4437367,-66.3559506
+2944,Slovenia,Ankaran,45.5789629,13.7364985
+2945,Slovenia,Borovnica,45.9194745,14.3637139
+2946,United States,Barranquitas,18.1858457,-66.3065562
+2947,Peru,Tumbes,-3.833333,-80.5
+2948,Ecuador,Équateur,5.0162338,-52.53443830497649
+2949,Benin,Kouffo,7.1312662,1.7567394
+2950,United States,Río Grande,-22.9223043,-43.5570788
+2951,"Tanzania, United Republic of",Songwe,-7.82694755,32.61939368043643
+2952,Viet Nam,Bac Thai,18.32789,105.988114
+2953,Latvia,Aizpute,56.7226275,21.6067429
+2954,Mongolia,Govĭ-Altay,,
+2955,Slovenia,Zreče,,
+2956,Slovenia,Grosuplje,45.9576254,14.6531854
+2957,Kenya,Kirinyaga,-0.46887805,37.30276810393241
+2958,Viet Nam,Bắc Kạn,41.3370272,2.1136963
+2959,France,Agadez,16.972556,7.990739
+2960,Paraguay,Guairá,,
+2961,France,Miquelon-Langlade,47.1017503,-56.3799059
+2962,France,Bas-Sassandra,5.3523063,-6.6766897
+2963,Slovenia,Brda,46.0162019,13.548910233619523
+2964,Poland,Lofa,12.5939745,5.4263934
+2965,Slovenia,Žirovnica,,
+2966,United States,Saint Paul Charlestown,17.139871,-62.61629
+2967,Thailand,Chumphon,10.3782724,99.0077685
+2968,France,Xaisomboun,18.8631725,103.0344783
+2969,Bhutan,Punakha,27.66667675,89.85862564994392
+2970,Malta,Il-Qala,36.036291,14.3103502
+2971,Azerbaijan,Ağdaş,51.5584284,-0.1056554
+2972,Dominican Republic,Monte Plata,18.8100643,-69.7875354
+2973,Tajikistan,Gorno-Badakhshan,38.3492457,72.9988168
+2974,Puerto Rico,Villalba,18.1283511,-66.4925028
+2975,,Zambezi,-16.968976,27.833538
+2976,Italy,Chari-Baguirmi,11.3345348,16.2884311
+2977,Burkina Faso,Central Aimak,60.4449341,22.3886068
+2978,France,Nord-Est,47.1349774,26.652588108191956
+2979,Burundi,Gitega,-3.4284953,29.9249718
+2980,Chad,Tibesti,20.6808703,17.9935121
+2981,Oman,Ad Dakhiliyah,22.225975249999998,57.36927219565418
+2982,Italy,Inarajan,13.2798512,144.7431422
+2983,Ecuador,Zamora-Chinchipe,-4.0620183,-78.7751588
+2984,Dominican Republic,Hato Mayor,18.8677631,-69.3520365
+2985,North Macedonia,Resen,41.768084,19.8769608
+2986,Kenya,Nyandarua,-0.39155344999999997,36.49776838093413
+2987,United States,Charlotte,35.2272086,-80.8430827
+2988,Guatemala,Zacapa,14.9661596,-89.5180314
+2989,Puerto Rico,Lares,-33.8336103,-57.7993523
+2990,United Arab Emirates,Hiiraan,4.3616958,45.5333102
+2991,Brazil,Phoenix Islands,-4.45304385,-171.24688135668373
+2992,Latvia,Ādaži,16.043658,44.329396
+2993,Morocco,Southeastern Governorate,,
+2994,"Iran, Islamic Republic of",Kié-Ntem,,
+2995,Morocco,Dakhla-Oued Ed-Dahab,23.28371,-15.0202622
+2996,Slovenia,Šmarješke Toplice,,
+2997,Madagascar,Boeny,-16.23492785,46.12926718059281
+2998,Slovenia,Črna na Koroškem,,
+2999,United States,East Gobi Aymag,,
+3000,Lesotho,Butha-Buthe,-28.767108,28.250247
+3001,United States,Hope Town,48.0951392,-65.18245901438955
+3002,Kenya,Nyamira,-0.65225405,34.934130799923295
+3003,Suriname,Nickerie,5.722697,-56.884696812552065
+3004,United States,Zelenikovo,41.66314,25.32879
+3005,Turkey,Muş,-20.2759451,57.5703566
+3006,Madagascar,Analanjirofo,-16.317265,49.49149101790898
+3007,Montenegro,Mojkovac,42.9528752,19.5861715
+3008,Liechtenstein,Ruggell,47.2397575,9.5262871
+3009,Slovenia,Žužemberk,,
+3010,Saudi Arabia,Northern Borders Region,30.0,42.666667
+3011,United States,Pehchevo,41.739905449999995,22.954493068636637
+3012,Azerbaijan,Shirvan,33.72464615,48.758290316007106
+3013,Algeria,Ouled Djellal,34.104904000000005,4.820300902475401
+3014,United States,Juana Díaz,-2.9023656,-79.0047891
+3015,Andorra,Escaldes-Engordany,42.48691275,1.6070001140292214
+3016,Latvia,Lecava,,
+3017,North Macedonia,Kratovo,42.079261,22.1802182
+3018,Brazil,Yona,47.85512575,3.6450439257238765
+3019,Mexico,Dependencias Federales,11.859254100000001,-66.7707980671899
+3020,Djibouti,Dikhil,11.4225322,42.2093773
+3021,Thailand,Satun,7.0366682,99.9615397
+3022,Angola,Zaire,-2.9814344,23.8222636
+3023,Germany,Ağsu,32.9374013,131.0800572
+3024,Germany,Makedonska Kamenica,42.0219096,22.588719
+3025,United States,Tagant,18.5729893,-10.3937926
+3026,Chad,Ouadaï,12.0363871,15.0376025
+3027,Bhutan,Lhuntse,28.4891273,92.6289407
+3028,Spain,Rojas,42.5782752,-3.4422375
+3029,United States,Manatí,16.0143848,120.2823824
+3030,Andorra,Canillo,42.5668305,1.5977647
+3031,Lao People's Democratic Republic,Khammouan,17.5842055,105.24713249754737
+3032,Maldives,Gnyaviyani Atoll,,
+3033,"Korea, Democratic People's Republic of",South Pyongan,39.5416505,126.0647645
+3034,Mayotte,Dzaoudzi,-12.782151,45.2556923
+3035,North Macedonia,Kriva Palanka,42.1980952,22.3316944
+3036,Georgia,Il-Munxar,36.0306654,14.2347898
+3037,North Macedonia,Berovo,41.706668,22.8535559
+3038,French Polynesia,Îles Marquises,43.56127535,4.065806474249337
+3039,Cambodia,Prey Veng,11.365959700000001,105.45572772976189
+3040,Azerbaijan,Oğuz,41.3704236,69.2847761
+3041,Thailand,Bolikhamsai,18.5806594,104.1491594
+3042,Belgium,Outer Islands,44.7539707,-62.6609429
+3043,United States,Orocovis,18.230883849999998,-66.39814914021392
+3044,North Macedonia,Bogovinje,41.9249545,20.914348
+3045,Uruguay,Treinta y Tres,-33.0,-54.25
+3046,Montenegro,Tuzi,42.3661526,19.3300881
+3047,Paraguay,Paraguarí,,
+3048,Indonesia,Oecusse,-9.2350402,124.27113290135006
+3049,India,Namdrik Atoll,5.6171289,168.1117198
+3050,Suriname,Brokopondo,4.68516435,-55.061092950855155
+3051,Slovenia,Hajdina,46.419907550000005,15.823930575155805
+3052,Greece,Preiļu novads,,
+3053,United States,Jan Mayen,70.99341765,-8.350019623637058
+3054,Spain,Mambéré-Kadéï,,
+3055,South Sudan,Warrap,8.088279,28.6371008
+3056,France,Sangha,1.3798449,15.616434381342827
+3057,Russian Federation,Novo Selo,45.0941674,15.5916499
+3058,Russian Federation,Yevlax,40.6111615,47.1479948
+3059,United States,Övörhangay,,
+3060,Gabon,Haut-Ogooué,,
+3061,Estonia,Valgamaa,57.868907050000004,26.10487166304882
+3062,Slovenia,Križevci,,
+3063,Turkey,Iğdır,-2.1341898,-79.90050984277767
+3064,Ghana,Western North,41.9160135,-87.6870816
+3065,Paraguay,Caazapá,,
+3066,"Korea, Republic of",P'yŏngan-bukto,,
